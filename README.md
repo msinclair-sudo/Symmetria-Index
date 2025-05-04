@@ -22,8 +22,10 @@ High-level dietary goals with weighted nutrients and tags
 /Meal-Plan Workflow Blueprint.md  → Guide for generating 7-day meal plans
 
 # How It Works
+Configure your profile, or use default.
 Provide all files as input to an LLM.
-Request a 7-day meal plan or recipe set tailored to your profile and goals.
+Prompt the LLM: "follow the instruction in the markdown"
+the LLM will ask questions for your meal plan.
 Receive an output file meal_plan_yyyy-MM-dd.json with:
 21 meal slots (breakfast, lunch, dinner)
 
