@@ -15,14 +15,12 @@ High-level dietary goals with weighted nutrients and tags
  Scientifically plausible nutrient estimates
 
 # Repository Contents
-pgsql
-Copy
-Edit
-/ingredients.json        → Ingredient-level nutritional profiles  
-/recipes.json            → Recipe details and nutrition summaries  
-/goals.json              → Dietary goals and weighted nutrients  
-/profile.json            → Personal nutrition targets and constraints  
-/Meal-Plan Workflow Blueprint.md → Guide for generating 7-day meal plans
+/ingredients.json                 → Ingredient-level nutritional profiles  
+/recipes.json                     → Recipe details and nutrition summaries  
+/goals.json                       → Dietary goals and weighted nutrients  
+/profile.json                     → Personal nutrition targets and constraints  
+/Meal-Plan Workflow Blueprint.md  → Guide for generating 7-day meal plans
+
 # How It Works
 Provide the JSON files as input to an LLM.
 Request a 7-day meal plan or recipe set tailored to your profile and goals.
