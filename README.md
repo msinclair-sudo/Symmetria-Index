@@ -35,10 +35,8 @@ It ships with carefully curated JSON datasets (ingredients, recipes, goals, prof
 2. **Prompt once**:  
 Follow the instructions in “Meal-Plan_Workflow_Blueprint_Interactive_Strict_v2.md”.
 
-markdown
-Copy
-Edit
-3. **Phase A** – The model echoes a validation payload.  
+
+## 3. **Phase A** – The model echoes a validation payload.  
 *If any `"failed_checks"` appear, fix your source files and start over.*
 4. **Phase B** – The model lists available goals → **you reply with exactly one goal key** (e.g. `GutHealth`).  
 5. **Phase C** – Scoring log delivered (silent step, no action).  
@@ -48,10 +46,9 @@ Edit
 **Important:** *type `continue`* to request Phase F2.  
 9. **Phase F2** – The assistant streams `recipes_full` in slices until you see  
 
-{ "phase":"F2", "status":"complete" }
-Phase G – You’re done; ask for nutrition drill-downs or tweaks as needed.
+"Phase G – You’re done; ask for nutrition drill-downs or tweaks as needed."
 
-Conversation cheat-sheet
+## Conversation cheat-sheet
 You type	Model should respond with
 (initial prompt)	Phase A result
 HighEnergy (or other goal key)	Phase C (scoring)
@@ -60,39 +57,31 @@ nothing	Phase E
 nothing	Phase F1 (plan + list)
 continue	Phase F2 recipe dump
 
-🗂 Output Files
+## 🗂 Output Files
 meal_plan_YYYY-MM-DD.json – 21 meals, cooking sessions, nutrition summary
-
 shopping_list.json – (embedded in Phase F1 payload) aggregated ingredients & costs
-
 recipes_full – (Phase F2) verbatim recipe objects; zero placeholders allowed
 
-🔬 Example Use Cases
+## 🔬 Example Use Cases
 Draw up a weekly plan honouring a HeartHealthy goal.
-
 Inject new low-cost recipes and see how scores change.
-
 Balance high-polyphenol ingredients across seven days.
-
 Generate a grocery list capped at $100 AUD.
 
-🛠 Troubleshooting
+## 🛠 Troubleshooting
 Symptom	Likely cause	Fix
 Placeholders { … } in recipes_full	You skipped continue / Phase F2 or blueprint not updated	Type continue or ensure v2 blueprint is loaded
 export-validation-failed	A Phase F gate tripped (e.g. placeholder, budget breach)	Read details, revise profile or recipes, restart
 Token overflow / assistant stops mid-dump	>40 k-token recipe set	Type continue again; the model must resume next slice
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome for:
-
-Budget-friendly, diverse recipes (≤ $5 AUD per serve)
-
+Budget-friendly, diverse recipes
 New ingredient profiles with full nutrient/bioactive data
-
 Workflow or documentation improvements
 
-📜 License
+## 📜 License
 Creative Commons — see LICENSE for full legal code.
 
-Project Maintainer
+## Project Maintainer
 msinclair-sudo
