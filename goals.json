@@ -1,0 +1,48 @@
+{
+    "BudgetTimeSaver": {
+        "priority_nutrients": {
+            "Calories": 0.0
+        },
+        "priority_tags": {
+            "Low-Cost": 1.0,
+            "Quick": 0.8,
+            "30-Minute": 0.6,
+            "5-Ingredient": 0.5,
+            "Meal-Prep": 0.4,
+            "Freezer-Friendly": 0.3
+        },
+        "description": "Affordable meals that can be cooked quickly with few ingredients, ideal for busy schedules."
+    },
+    "HeartHealthy": {
+        "priority_nutrients": {
+            "SaturatedFat": -1.0,
+            "Fiber": 0.8,
+            "Omega-3": 0.8,
+            "Sodium": -0.5,
+            "Potassium": 0.4
+        },
+        "priority_tags": {
+            "Low-Sat-Fat": 1.0,
+            "Low-Sodium": 0.7,
+            "Omega-3-Rich": 0.7,
+            "Anti-Inflammatory": 0.4,
+            "High-Fiber": 0.3
+        },
+        "description": "Promote cardiovascular health by limiting saturated fat and sodium while emphasising fiber and omega-3."
+    },
+    "BoneSupport": {
+        "priority_nutrients": {
+            "Calcium": 1.0,
+            "VitaminD": 0.8,
+            "Magnesium": 0.6,
+            "Protein": 0.4,
+            "VitaminK": 0.5
+        },
+        "priority_tags": {
+            "High-Calcium": 1.0,
+            "High-Magnesium": 0.6,
+            "High-Protein": 0.4
+        },
+        "description": "Strengthen bone density and maintenance through calcium-rich, magnesium-supportive meals."
+    }
+}

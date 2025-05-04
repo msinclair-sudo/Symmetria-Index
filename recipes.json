@@ -1,0 +1,5837 @@
+{
+    "Peanut Butter Banana Oatmeal": {
+        "Category": "Breakfast",
+        "Cuisine": "American",
+        "Servings": "1",
+        "PrepTime": "5 minutes",
+        "CookTime": "5 minutes",
+        "Ingredients": [
+            {
+                "name": "Oats",
+                "amount": "1/2 cup"
+            },
+            {
+                "name": "Milk",
+                "amount": "1 cup"
+            },
+            {
+                "name": "Banana",
+                "amount": "1 medium (sliced)"
+            },
+            {
+                "name": "Peanut Butter",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "In a small saucepan, combine oats and milk. Bring to a simmer.",
+            "Cook for about 5 minutes, stirring frequently, until the oats are soft and the mixture thickens.",
+            "Stir in the peanut butter until well combined.",
+            "Top with sliced banana and serve warm."
+        ],
+        "NutritionSummary": {
+            "Calories": "530 kcal",
+            "Protein": "20g",
+            "Carbohydrates": "72g",
+            "Fat": "20g",
+            "Fiber": "9g"
+        },
+        "Tags": [
+            "Vegetarian",
+            "High-Fiber",
+            "Prebiotic"
+        ]
+    },
+    "Southwest Tofu Scramble": {
+        "Category": "Breakfast",
+        "Cuisine": "Vegan",
+        "Servings": "2",
+        "PrepTime": "10 minutes",
+        "CookTime": "10 minutes",
+        "Ingredients": [
+            {
+                "name": "Tofu",
+                "amount": "400g (firm, crumbled)"
+            },
+            {
+                "name": "Black Beans",
+                "amount": "1 cup (cooked or canned, drained)"
+            },
+            {
+                "name": "Bell Pepper",
+                "amount": "1/2 cup (diced)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/4 cup (diced)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            },
+            {
+                "name": "Spinach",
+                "amount": "1 cup (fresh)"
+            }
+        ],
+        "Instructions": [
+            "Heat olive oil in a skillet on medium heat. Sauté onion, garlic, and bell pepper until softened.",
+            "Add crumbled tofu to the pan and cook for 3-4 minutes, stirring frequently.",
+            "Mix in black beans and spinach. Cook until heated through and spinach is wilted.",
+            "Season with salt, pepper, and spices like cumin or turmeric if desired. Serve hot."
+        ],
+        "NutritionSummary": {
+            "Calories": "350 kcal",
+            "Protein": "24g",
+            "Carbohydrates": "20g",
+            "Fat": "7g",
+            "Fiber": "7g"
+        },
+        "Tags": [
+            "High-Protein",
+            "High-Fiber",
+            "Vegan",
+            "Gluten-Free",
+            "Prebiotic"
+        ]
+    },
+    "Hearty Lentil Vegetable Soup": {
+        "Category": "Main",
+        "Cuisine": "Global",
+        "Servings": "4",
+        "PrepTime": "15 minutes",
+        "CookTime": "40 minutes",
+        "Ingredients": [
+            {
+                "name": "Lentils",
+                "amount": "1 cup (dry)"
+            },
+            {
+                "name": "Carrots",
+                "amount": "1 cup (chopped)"
+            },
+            {
+                "name": "Potatoes",
+                "amount": "1 cup (diced)"
+            },
+            {
+                "name": "Tomatoes",
+                "amount": "1 cup (diced)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "3 cloves (minced)"
+            },
+            {
+                "name": "Spinach",
+                "amount": "2 cups (fresh)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Heat olive oil in a large pot. Sauté onion, garlic, and carrots for 5 minutes.",
+            "Add diced potatoes, lentils, and tomatoes. Pour in 6 cups of water (or broth) and bring to a boil.",
+            "Reduce heat and simmer for 30 minutes, or until lentils and potatoes are tender.",
+            "Stir in fresh spinach during the last 5 minutes of cooking. Season with salt and pepper to taste. Serve warm."
+        ],
+        "NutritionSummary": {
+            "Calories": "330 kcal",
+            "Protein": "13g",
+            "Carbohydrates": "45g",
+            "Fat": "7g",
+            "Fiber": "9g"
+        },
+        "Tags": [
+            "Prebiotic",
+            "Vegan",
+            "Gluten-Free",
+            "High-Fiber"
+        ]
+    },
+    "Chickpea and Spinach Curry": {
+        "Category": "Main",
+        "Cuisine": "Indian",
+        "Servings": "4",
+        "PrepTime": "15 minutes",
+        "CookTime": "25 minutes",
+        "Ingredients": [
+            {
+                "name": "Chickpeas",
+                "amount": "2 cups (cooked or canned, drained)"
+            },
+            {
+                "name": "Spinach",
+                "amount": "4 cups (fresh)"
+            },
+            {
+                "name": "Tomatoes",
+                "amount": "2 cups (diced)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "3 cloves (minced)"
+            },
+            {
+                "name": "Sweet Potatoes",
+                "amount": "2 cups (diced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            },
+            {
+                "name": "Brown Rice",
+                "amount": "2 cups (cooked)"
+            }
+        ],
+        "Instructions": [
+            "Heat olive oil in a pot over medium heat. Sauté onion and garlic until golden.",
+            "Add diced sweet potatoes and cook for 5 minutes.",
+            "Stir in tomatoes and cook until they break down into a sauce.",
+            "Add chickpeas and a splash of water. Simmer for 10-15 minutes until sweet potatoes are tender.",
+            "Stir in fresh spinach until wilted. Season with curry powder, salt, and pepper as desired.",
+            "Serve the curry over hot cooked brown rice."
+        ],
+        "NutritionSummary": {
+            "Calories": "420 kcal",
+            "Protein": "12g",
+            "Carbohydrates": "72g",
+            "Fat": "8g",
+            "Fiber": "10g"
+        },
+        "Tags": [
+            "Prebiotic",
+            "Vegan",
+            "Gluten-Free",
+            "High-Fiber"
+        ]
+    },
+    "Tuna and Tomato Pasta": {
+        "Category": "Main",
+        "Cuisine": "Italian",
+        "Servings": "4",
+        "PrepTime": "10 minutes",
+        "CookTime": "15 minutes",
+        "Ingredients": [
+            {
+                "name": "Whole Wheat Pasta",
+                "amount": "300g (dry)"
+            },
+            {
+                "name": "Canned Tuna",
+                "amount": "2 cans (about 300g total, drained)"
+            },
+            {
+                "name": "Tomatoes",
+                "amount": "2 cups (diced or crushed)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Spinach",
+                "amount": "2 cups (fresh)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "2 tablespoons"
+            },
+            {
+                "name": "Cheddar Cheese",
+                "amount": "1/2 cup (shredded)"
+            }
+        ],
+        "Instructions": [
+            "Cook the whole wheat pasta according to package instructions. Drain and set aside.",
+            "In a pan, heat olive oil and sauté onion and garlic until fragrant.",
+            "Add diced tomatoes and cook for 5-7 minutes to form a sauce. Season with salt, pepper, and Italian herbs if available.",
+            "Stir in the drained tuna and fresh spinach. Cook until spinach wilts and tuna is heated through.",
+            "Toss the cooked pasta with the sauce. Serve with shredded cheddar cheese sprinkled on top."
+        ],
+        "NutritionSummary": {
+            "Calories": "450 kcal",
+            "Protein": "25g",
+            "Carbohydrates": "62g",
+            "Fat": "14g",
+            "Fiber": "8g"
+        },
+        "Tags": [
+            "Pescatarian",
+            "High-Protein",
+            "High-Fiber"
+        ]
+    },
+    "Sweet Potato Black Bean Chili": {
+        "Category": "Main",
+        "Cuisine": "Mexican",
+        "Servings": "4",
+        "PrepTime": "15 minutes",
+        "CookTime": "30 minutes",
+        "Ingredients": [
+            {
+                "name": "Black Beans",
+                "amount": "2 cups (cooked or canned, drained)"
+            },
+            {
+                "name": "Sweet Potatoes",
+                "amount": "2 cups (diced)"
+            },
+            {
+                "name": "Tomatoes",
+                "amount": "2 cups (diced)"
+            },
+            {
+                "name": "Bell Pepper",
+                "amount": "1 cup (chopped)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "3 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            },
+            {
+                "name": "Brown Rice",
+                "amount": "2 cups (cooked)"
+            }
+        ],
+        "Instructions": [
+            "Heat olive oil in a pot. Sauté onion, garlic, and bell pepper until softened.",
+            "Add diced sweet potatoes and cook for 5 minutes.",
+            "Stir in tomatoes (with juice if using canned) and bring to a simmer.",
+            "Add black beans. Cover and simmer for 20 minutes, or until sweet potatoes are tender.",
+            "Season with chili powder, cumin, salt, and pepper to taste. Serve hot, optionally over cooked brown rice."
+        ],
+        "NutritionSummary": {
+            "Calories": "380 kcal",
+            "Protein": "13g",
+            "Carbohydrates": "70g",
+            "Fat": "8g",
+            "Fiber": "15g"
+        },
+        "Tags": [
+            "Prebiotic",
+            "Vegan",
+            "Gluten-Free",
+            "High-Fiber"
+        ]
+    },
+    "Chicken Fried Rice": {
+        "Category": "Main",
+        "Cuisine": "Asian",
+        "Servings": "3",
+        "PrepTime": "15 minutes",
+        "CookTime": "10 minutes",
+        "Ingredients": [
+            {
+                "name": "Brown Rice",
+                "amount": "3 cups (cooked, chilled)"
+            },
+            {
+                "name": "Chicken Breast",
+                "amount": "150g (cooked, diced)"
+            },
+            {
+                "name": "Eggs",
+                "amount": "2 large"
+            },
+            {
+                "name": "Carrots",
+                "amount": "1/2 cup (diced)"
+            },
+            {
+                "name": "Broccoli",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/4 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Heat half the olive oil in a large pan or wok. Scramble the eggs and set aside.",
+            "In the same pan, add remaining oil and sauté onion and garlic until fragrant.",
+            "Add carrots and broccoli, stir-frying until tender. Then add diced cooked chicken to warm it.",
+            "Stir in the cooked brown rice, breaking up any clumps. Fry for 2-3 minutes.",
+            "Mix in the scrambled eggs. Season with soy sauce (if available) or salt and pepper. Serve hot."
+        ],
+        "NutritionSummary": {
+            "Calories": "400 kcal",
+            "Protein": "19g",
+            "Carbohydrates": "45g",
+            "Fat": "16g",
+            "Fiber": "3g"
+        },
+        "Tags": [
+            "Dairy-Free",
+            "High-Protein",
+            "Gluten-Free"
+        ]
+    },
+    "Banana Pancakes": {
+        "Category": "Breakfast",
+        "Cuisine": "American",
+        "Servings": "2",
+        "PrepTime": "10 minutes",
+        "CookTime": "10 minutes",
+        "Ingredients": [
+            {
+                "name": "Whole Wheat Flour",
+                "amount": "1 cup"
+            },
+            {
+                "name": "Milk",
+                "amount": "1 cup"
+            },
+            {
+                "name": "Eggs",
+                "amount": "1 large"
+            },
+            {
+                "name": "Banana",
+                "amount": "1 (mashed)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 teaspoon"
+            }
+        ],
+        "Instructions": [
+            "In a bowl, mix mashed banana, egg, milk, and flour until a batter forms.",
+            "Heat a lightly oiled griddle or pan over medium heat.",
+            "Pour batter onto the griddle to form pancakes of desired size.",
+            "Cook until bubbles form and edges are dry, then flip and cook the other side until golden.",
+            "Serve warm. Optionally top with additional banana slices or a drizzle of peanut butter."
+        ],
+        "NutritionSummary": {
+            "Calories": "400 kcal",
+            "Protein": "16g",
+            "Carbohydrates": "53g",
+            "Fat": "14g",
+            "Fiber": "6g"
+        },
+        "Tags": [
+            "Prebiotic",
+            "Vegetarian",
+            "High-Fiber"
+        ]
+    },
+    "Yogurt Banana Parfait": {
+        "Category": "Breakfast",
+        "Cuisine": "Global",
+        "Servings": "1",
+        "PrepTime": "5 minutes",
+        "CookTime": "0 minutes",
+        "Ingredients": [
+            {
+                "name": "Yogurt",
+                "amount": "1 cup (plain)"
+            },
+            {
+                "name": "Banana",
+                "amount": "1 (sliced)"
+            },
+            {
+                "name": "Oats",
+                "amount": "2 tablespoons"
+            },
+            {
+                "name": "Peanut Butter",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "In a glass or bowl, layer half of the yogurt, then half of the banana slices.",
+            "Sprinkle with oats, then repeat with remaining yogurt and banana.",
+            "Warm the peanut butter slightly if needed, then drizzle it over the top of the parfait.",
+            "Enjoy immediately as a quick breakfast or snack."
+        ],
+        "NutritionSummary": {
+            "Calories": "350 kcal",
+            "Protein": "14g",
+            "Carbohydrates": "49g",
+            "Fat": "14g",
+            "Fiber": "6g"
+        },
+        "Tags": [
+            "Vegetarian",
+            "Synbiotic",
+            "Probiotic",
+            "Prebiotic"
+        ]
+    },
+    "Baked Sweet Potato with Chickpeas": {
+        "Category": "Main",
+        "Cuisine": "Fusion",
+        "Servings": "2",
+        "PrepTime": "10 minutes",
+        "CookTime": "45 minutes",
+        "Ingredients": [
+            {
+                "name": "Sweet Potatoes",
+                "amount": "2 medium"
+            },
+            {
+                "name": "Chickpeas",
+                "amount": "1 cup (cooked or canned, drained)"
+            },
+            {
+                "name": "Spinach",
+                "amount": "2 cups (fresh)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "2 teaspoons"
+            },
+            {
+                "name": "Yogurt",
+                "amount": "1/2 cup (plain)"
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 200°C (400°F). Wash sweet potatoes and pierce them with a fork a few times. Bake for 40-45 minutes until tender.",
+            "Meanwhile, heat olive oil in a pan. Add minced garlic and chickpeas, cooking for 5-7 minutes and seasoning with salt, pepper, and spices as desired.",
+            "Stir in fresh spinach with the chickpeas and cook until just wilted, then remove from heat.",
+            "Slice baked sweet potatoes open lengthwise. Fill each with the sautéed chickpeas and spinach.",
+            "Top with a dollop of yogurt (seasoned with a pinch of salt and garlic if desired) and serve warm."
+        ],
+        "NutritionSummary": {
+            "Calories": "420 kcal",
+            "Protein": "13g",
+            "Carbohydrates": "69g",
+            "Fat": "9g",
+            "Fiber": "14g"
+        },
+        "Tags": [
+            "Synbiotic",
+            "High-Fiber",
+            "Vegetarian",
+            "Gluten-Free",
+            "Probiotic",
+            "Prebiotic"
+        ]
+    },
+    "Minestrone Soup": {
+        "Category": "Main",
+        "Cuisine": "Italian",
+        "Servings": "4",
+        "PrepTime": "20 minutes",
+        "CookTime": "30 minutes",
+        "Ingredients": [
+            {
+                "name": "Whole Wheat Pasta",
+                "amount": "1 cup (dry small pasta, e.g., macaroni)"
+            },
+            {
+                "name": "Chickpeas",
+                "amount": "1 cup (cooked or canned, drained)"
+            },
+            {
+                "name": "Tomatoes",
+                "amount": "2 cups (diced)"
+            },
+            {
+                "name": "Carrots",
+                "amount": "1 cup (chopped)"
+            },
+            {
+                "name": "Zucchini",
+                "amount": "1 cup (chopped)"
+            },
+            {
+                "name": "Cabbage",
+                "amount": "1 cup (shredded)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "3 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Heat olive oil in a large pot over medium heat. Sauté onion, garlic, carrots, and zucchini for 5 minutes.",
+            "Add shredded cabbage and tomatoes, cooking until the tomatoes soften.",
+            "Stir in chickpeas and 6 cups of water (or vegetable broth). Bring to a boil.",
+            "Add the whole wheat pasta and cook for about 10 minutes until al dente.",
+            "Season with salt, pepper, and Italian herbs as desired. Serve hot."
+        ],
+        "NutritionSummary": {
+            "Calories": "300 kcal",
+            "Protein": "10g",
+            "Carbohydrates": "50g",
+            "Fat": "3g",
+            "Fiber": "8g"
+        },
+        "Tags": [
+            "Prebiotic",
+            "Vegan",
+            "High-Fiber"
+        ]
+    },
+    "Cabbage and Egg Stir-Fry": {
+        "Category": "Main",
+        "Cuisine": "Chinese",
+        "Servings": "2",
+        "PrepTime": "10 minutes",
+        "CookTime": "10 minutes",
+        "Ingredients": [
+            {
+                "name": "Cabbage",
+                "amount": "2 cups (shredded)"
+            },
+            {
+                "name": "Eggs",
+                "amount": "2 large"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Heat olive oil in a pan, sauté garlic until fragrant.",
+            "Add cabbage, stir-fry 3-4 minutes until tender-crisp.",
+            "Push cabbage aside, scramble eggs, then combine.",
+            "Season with salt and pepper. Serve warm."
+        ],
+        "NutritionSummary": {
+            "Calories": "230 kcal",
+            "Protein": "13g",
+            "Carbohydrates": "12g",
+            "Fat": "16g",
+            "Fiber": "5g"
+        },
+        "Tags": [
+            "Prebiotic",
+            "Vegetarian",
+            "Gluten-Free",
+            "High-Fiber"
+        ]
+    },
+    "Spiced Lentil and Carrot Stew": {
+        "Category": "Main",
+        "Cuisine": "Middle Eastern",
+        "Servings": "4",
+        "PrepTime": "10 minutes",
+        "CookTime": "30 minutes",
+        "Ingredients": [
+            {
+                "name": "Lentils",
+                "amount": "1 cup (dry)"
+            },
+            {
+                "name": "Carrots",
+                "amount": "1 cup (chopped)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Heat olive oil, sauté onion, garlic, and carrots 5 minutes.",
+            "Add lentils, 4 cups water, spices. Simmer 25 minutes.",
+            "Adjust seasoning. Serve with bread or rice."
+        ],
+        "NutritionSummary": {
+            "Calories": "320 kcal",
+            "Protein": "18g",
+            "Carbohydrates": "45g",
+            "Fat": "8g",
+            "Fiber": "12g"
+        },
+        "Tags": [
+            "Prebiotic",
+            "Vegan",
+            "Low-Cost",
+            "High-Fiber"
+        ]
+    },
+    "Peanut Butter Apple Toast": {
+        "Category": "Snack",
+        "Cuisine": "American",
+        "Servings": "1",
+        "PrepTime": "5 minutes",
+        "CookTime": "0 minutes",
+        "Ingredients": [
+            {
+                "name": "Whole Wheat Bread",
+                "amount": "1 slice"
+            },
+            {
+                "name": "Peanut Butter",
+                "amount": "1 tablespoon"
+            },
+            {
+                "name": "Apple",
+                "amount": "1/2 (sliced)"
+            }
+        ],
+        "Instructions": [
+            "Toast bread.",
+            "Spread peanut butter.",
+            "Top with apple slices. Serve."
+        ],
+        "NutritionSummary": {
+            "Calories": "280 kcal",
+            "Protein": "8g",
+            "Carbohydrates": "30g",
+            "Fat": "16g",
+            "Fiber": "6g"
+        },
+        "Tags": [
+            "Affordable",
+            "High-Fiber",
+            "Vegetarian",
+            "Low-Cost",
+            "Prebiotic"
+        ]
+    },
+    "Chickpea and Spinach Stir-Fry": {
+        "Category": "Main",
+        "Cuisine": "Indian",
+        "Servings": "2",
+        "PrepTime": "10 minutes",
+        "CookTime": "10 minutes",
+        "Ingredients": [
+            {
+                "name": "Chickpeas",
+                "amount": "1 cup (cooked)"
+            },
+            {
+                "name": "Spinach",
+                "amount": "2 cups (fresh)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Heat oil, sauté onion and garlic until soft.",
+            "Add chickpeas, cook 3-4 minutes.",
+            "Stir in spinach, cook until wilted. Season.",
+            "Serve as side or main."
+        ],
+        "NutritionSummary": {
+            "Calories": "300 kcal",
+            "Protein": "12g",
+            "Carbohydrates": "30g",
+            "Fat": "14g",
+            "Fiber": "10g"
+        },
+        "Tags": [
+            "Prebiotic",
+            "Vegan",
+            "Gluten-Free",
+            "High-Fiber"
+        ]
+    },
+    "Banana Oat Smoothie": {
+        "Category": "Breakfast",
+        "Cuisine": "Global",
+        "Servings": "1",
+        "PrepTime": "5 minutes",
+        "CookTime": "0 minutes",
+        "Ingredients": [
+            {
+                "name": "Banana",
+                "amount": "1 medium"
+            },
+            {
+                "name": "Oats",
+                "amount": "1/4 cup"
+            },
+            {
+                "name": "Milk",
+                "amount": "1 cup"
+            },
+            {
+                "name": "Peanut Butter",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Blend all ingredients until smooth.",
+            "Serve chilled or over ice."
+        ],
+        "NutritionSummary": {
+            "Calories": "380 kcal",
+            "Protein": "16g",
+            "Carbohydrates": "50g",
+            "Fat": "16g",
+            "Fiber": "8g"
+        },
+        "Tags": [
+            "Budget-Friendly",
+            "High-Fiber",
+            "Vegetarian",
+            "Low-Cost",
+            "Prebiotic"
+        ]
+    },
+    "Sardine Tomato Toast": {
+        "Category": "Snack",
+        "Cuisine": "Mediterranean",
+        "Servings": "1",
+        "PrepTime": "5 minutes",
+        "CookTime": "0 minutes",
+        "Ingredients": [
+            {
+                "name": "Canned Sardines",
+                "amount": "1 can (about 100g, drained)"
+            },
+            {
+                "name": "Tomatoes",
+                "amount": "1/2 cup (diced)"
+            },
+            {
+                "name": "Whole Wheat Bread",
+                "amount": "1 slice"
+            }
+        ],
+        "Instructions": [
+            "Toast bread slice.",
+            "Top with sardines and diced tomatoes.",
+            "Season with pepper or herbs. Serve."
+        ],
+        "NutritionSummary": {
+            "Calories": "300 kcal",
+            "Protein": "27g",
+            "Carbohydrates": "15g",
+            "Fat": "18g",
+            "Fiber": "3g"
+        },
+        "Tags": [
+            "Pescatarian",
+            "High-Protein",
+            "Low-Cost",
+            "Budget-Friendly"
+        ]
+    },
+    "Egg Fried Rice": {
+        "Category": "Main",
+        "Cuisine": "Asian",
+        "Servings": "2",
+        "PrepTime": "10 minutes",
+        "CookTime": "10 minutes",
+        "Ingredients": [
+            {
+                "name": "Brown Rice",
+                "amount": "2 cups (cooked)"
+            },
+            {
+                "name": "Eggs",
+                "amount": "2 large"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Heat oil, sauté onion and garlic.",
+            "Add eggs, scramble until set.",
+            "Stir in rice, cook 3-4 minutes. Season. Serve."
+        ],
+        "NutritionSummary": {
+            "Calories": "400 kcal",
+            "Protein": "15g",
+            "Carbohydrates": "45g",
+            "Fat": "18g",
+            "Fiber": "4g"
+        },
+        "Tags": [
+            "Low-Cost",
+            "Vegetarian",
+            "Gluten-Free",
+            "Budget-Friendly"
+        ]
+    },
+    "Lentil Shepherd’s Pie": {
+        "Category": "Main",
+        "Cuisine": "British",
+        "Servings": "4",
+        "PrepTime": "15 minutes",
+        "CookTime": "30 minutes",
+        "Ingredients": [
+            {
+                "name": "Lentils",
+                "amount": "1 cup (cooked)"
+            },
+            {
+                "name": "Carrots",
+                "amount": "1 cup (chopped)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Potatoes",
+                "amount": "2 cups (mashed)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Sauté onion and carrots in olive oil.",
+            "Add lentils, cook 5 minutes.",
+            "Transfer to dish, top with mashed potatoes.",
+            "Bake at 180°C (350°F) for 20 minutes."
+        ],
+        "NutritionSummary": {
+            "Calories": "350 kcal",
+            "Protein": "15g",
+            "Carbohydrates": "50g",
+            "Fat": "12g",
+            "Fiber": "10g"
+        },
+        "Tags": [
+            "Low-Cost",
+            "Vegan",
+            "Affordable",
+            "High-Fiber"
+        ]
+    },
+    "Chickpea Salad Wrap": {
+        "Category": "Lunch",
+        "Cuisine": "Global",
+        "Servings": "2",
+        "PrepTime": "10 minutes",
+        "CookTime": "0 minutes",
+        "Ingredients": [
+            {
+                "name": "Chickpeas",
+                "amount": "1 cup (cooked, mashed)"
+            },
+            {
+                "name": "Spinach",
+                "amount": "1 cup (fresh)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/4 cup (chopped)"
+            },
+            {
+                "name": "Whole Wheat Bread",
+                "amount": "2 slices"
+            }
+        ],
+        "Instructions": [
+            "Mash chickpeas with onion.",
+            "Spread on bread, top with spinach.",
+            "Fold or roll into wrap. Serve."
+        ],
+        "NutritionSummary": {
+            "Calories": "320 kcal",
+            "Protein": "13g",
+            "Carbohydrates": "40g",
+            "Fat": "10g",
+            "Fiber": "8g"
+        },
+        "Tags": [
+            "Budget-Friendly",
+            "High-Fiber",
+            "Vegan",
+            "Low-Cost",
+            "Prebiotic"
+        ]
+    },
+    "Baked Potato with Beans": {
+        "Category": "Main",
+        "Cuisine": "American",
+        "Servings": "2",
+        "PrepTime": "10 minutes",
+        "CookTime": "40 minutes",
+        "Ingredients": [
+            {
+                "name": "Potatoes",
+                "amount": "2 medium"
+            },
+            {
+                "name": "Black Beans",
+                "amount": "1 cup (cooked)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Bake potatoes at 200°C (400°F) for 40 minutes.",
+            "Sauté garlic in oil, add beans, heat through.",
+            "Slice potatoes, top with beans. Serve."
+        ],
+        "NutritionSummary": {
+            "Calories": "380 kcal",
+            "Protein": "14g",
+            "Carbohydrates": "55g",
+            "Fat": "12g",
+            "Fiber": "10g"
+        },
+        "Tags": [
+            "Budget-Friendly",
+            "High-Fiber",
+            "Vegan",
+            "Gluten-Free",
+            "Low-Cost"
+        ]
+    },
+    "Vegetable Stir-Fry Noodles": {
+        "Category": "Main",
+        "Cuisine": "Asian",
+        "Servings": "2",
+        "PrepTime": "10 minutes",
+        "CookTime": "10 minutes",
+        "Ingredients": [
+            {
+                "name": "Whole Wheat Pasta",
+                "amount": "2 cups (cooked)"
+            },
+            {
+                "name": "Carrots",
+                "amount": "1 cup (julienned)"
+            },
+            {
+                "name": "Bell Pepper",
+                "amount": "1 cup (sliced)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Heat olive oil, sauté garlic and vegetables 5 minutes.",
+            "Add pasta, toss well. Season with soy sauce or spices.",
+            "Serve hot."
+        ],
+        "NutritionSummary": {
+            "Calories": "400 kcal",
+            "Protein": "15g",
+            "Carbohydrates": "55g",
+            "Fat": "14g",
+            "Fiber": "8g"
+        },
+        "Tags": [
+            "Low-Cost",
+            "Vegan",
+            "Budget-Friendly",
+            "High-Fiber"
+        ]
+    },
+    "Tofu Scramble": {
+        "Category": "Breakfast",
+        "Cuisine": "Global",
+        "Servings": "2",
+        "PrepTime": "5 minutes",
+        "CookTime": "10 minutes",
+        "Ingredients": [
+            {
+                "name": "Tofu",
+                "amount": "1 cup (crumbled)"
+            },
+            {
+                "name": "Spinach",
+                "amount": "1 cup (chopped)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "Instructions": [
+            "Heat oil, sauté onion and tofu 5 minutes.",
+            "Add spinach, cook until wilted.",
+            "Season with turmeric, salt, pepper."
+        ],
+        "NutritionSummary": {
+            "Calories": "300 kcal",
+            "Protein": "18g",
+            "Carbohydrates": "10g",
+            "Fat": "22g",
+            "Fiber": "4g"
+        },
+        "Tags": [
+            "High-Protein",
+            "Affordable",
+            "Vegan",
+            "Gluten-Free",
+            "Low-Cost"
+        ]
+    },
+    "Mushroom Lentil Soup": {
+        "Category": "Soup",
+        "Cuisine": "European",
+        "Servings": "4",
+        "PrepTime": "10 minutes",
+        "CookTime": "30 minutes",
+        "Ingredients": [
+            {
+                "name": "Mushrooms",
+                "amount": "1 cup (sliced)"
+            },
+            {
+                "name": "Lentils",
+                "amount": "1 cup (dry)"
+            },
+            {
+                "name": "Carrots",
+                "amount": "1 cup (chopped)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/2 cup (chopped)"
+            },
+            {
+                "name": "Garlic",
+                "amount": "2 cloves (minced)"
+            }
+        ],
+        "Instructions": [
+            "Sauté onion, garlic, carrots, mushrooms 5 minutes.",
+            "Add lentils, 4 cups water, simmer 25 minutes.",
+            "Season and serve."
+        ],
+        "NutritionSummary": {
+            "Calories": "320 kcal",
+            "Protein": "20g",
+            "Carbohydrates": "40g",
+            "Fat": "10g",
+            "Fiber": "12g"
+        },
+        "Tags": [
+            "Budget-Friendly",
+            "High-Fiber",
+            "Vegan",
+            "Low-Cost",
+            "Prebiotic"
+        ]
+    },
+    "Zucchini Chickpea Fritters": {
+        "Category": "Snack",
+        "Cuisine": "Mediterranean",
+        "Servings": "4",
+        "PrepTime": "15 minutes",
+        "CookTime": "15 minutes",
+        "Ingredients": [
+            {
+                "name": "Zucchini",
+                "amount": "1 cup (grated)"
+            },
+            {
+                "name": "Chickpeas",
+                "amount": "1 cup (mashed)"
+            },
+            {
+                "name": "Onion",
+                "amount": "1/4 cup (chopped)"
+            },
+            {
+                "name": "Whole Wheat Flour",
+                "amount": "1/4 cup"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "2 tablespoons"
+            }
+        ],
+        "Instructions": [
+            "Mix all ingredients into a batter.",
+            "Form patties, pan-fry in olive oil until golden.",
+            "Serve with yogurt or dip."
+        ],
+        "NutritionSummary": {
+            "Calories": "350 kcal",
+            "Protein": "14g",
+            "Carbohydrates": "40g",
+            "Fat": "16g",
+            "Fiber": "8g"
+        },
+        "Tags": [
+            "Low-Cost",
+            "Vegetarian",
+            "Budget-Friendly",
+            "High-Fiber"
+        ]
+    },
+    "Banana Peanut Oat Bars": {
+        "Category": "Snack",
+        "Cuisine": "Global",
+        "Servings": "4",
+        "PrepTime": "10 minutes",
+        "CookTime": "25 minutes",
+        "Ingredients": [
+            {
+                "name": "Banana",
+                "amount": "2 medium (mashed)"
+            },
+            {
+                "name": "Oats",
+                "amount": "1 cup"
+            },
+            {
+                "name": "Peanut Butter",
+                "amount": "1/4 cup"
+            }
+        ],
+        "Instructions": [
+            "Mix all ingredients, press into baking dish.",
+            "Bake at 180°C (350°F) for 25 minutes.",
+            "Cool, slice into bars."
+        ],
+        "NutritionSummary": {
+            "Calories": "280 kcal",
+            "Protein": "10g",
+            "Carbohydrates": "35g",
+            "Fat": "14g",
+            "Fiber": "6g"
+        },
+        "Tags": [
+            "Low-Cost",
+            "Vegan",
+            "Budget-Friendly",
+            "High-Fiber"
+        ]
+    },
+    "Spanish_Mackerel_Broccoli_Pasta": {
+        "category": "Dinner",
+        "cuisine": "Mediterranean",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Spanish Mackerel (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "160",
+                "unit": "g"
+            },
+            {
+                "item": "Bell Pepper",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Whole Wheat Pasta",
+                "quantity": "160",
+                "unit": "g (dry)"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Cook pasta until al dente; reserve 1/4 cup cooking water and drain.",
+            "Meanwhile, heat olive oil; sauté minced garlic, sliced bell pepper and broccoli florets 4 min.",
+            "Add diced Spanish mackerel; cook 3–4 min until opaque.",
+            "Toss with pasta and reserved water for 1 min and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "480",
+            "Protein": "42g",
+            "Carbohydrates": "56g",
+            "Fat": "12g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "omega-3",
+            "underrepresented_fish",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tasmanian_Salmon_Lentil_Apple_Salad": {
+        "category": "Lunch",
+        "cuisine": "Modern Australian",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Tasmanian Salmon (Fresh)",
+                "quantity": "240",
+                "unit": "g (cooked, chilled & flaked)"
+            },
+            {
+                "item": "Lentils",
+                "quantity": "220",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "item": "Spinach",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Dice apple; combine with lentils and spinach in a bowl.",
+            "Add flaked, chilled salmon.",
+            "Drizzle olive oil; season lightly and toss."
+        ],
+        "nutrition_summary": {
+            "Calories": "420",
+            "Protein": "34g",
+            "Carbohydrates": "34g",
+            "Fat": "16g",
+            "Fiber": "8g"
+        },
+        "tags": [
+            "no-cook",
+            "high_fiber",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Yellowfin_Tuna_Zucchini_Stir_Fry": {
+        "category": "Dinner",
+        "cuisine": "Asian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "10",
+        "ingredients": [
+            {
+                "item": "Yellowfin Tuna (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Zucchini",
+                "quantity": "200",
+                "unit": "g spiralised"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            }
+        ],
+        "instructions": [
+            "Dust tuna cubes lightly with flour.",
+            "Sear in hot oil 1 min per side; remove.",
+            "Stir-fry garlic, sliced mushrooms and zucchini noodles 3 min.",
+            "Return tuna; toss 30 s and plate."
+        ],
+        "nutrition_summary": {
+            "Calories": "380",
+            "Protein": "42g",
+            "Carbohydrates": "22g",
+            "Fat": "12g",
+            "Fiber": "4g"
+        },
+        "tags": [
+            "low_carb",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Flathead_Sweet_Potato_Egg_Hash": {
+        "category": "Breakfast",
+        "cuisine": "Fusion",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "Flathead Fillets (Fresh)",
+                "quantity": "250",
+                "unit": "g"
+            },
+            {
+                "item": "Sweet Potatoes",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "2",
+                "unit": "large"
+            },
+            {
+                "item": "Onions",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Grate sweet potatoes; squeeze excess moisture.",
+            "Sauté onions and grated sweet potatoes 6 min.",
+            "Add flaked cooked flathead; stir 2 min.",
+            "Make 2 wells; crack eggs, cover and cook 4–5 min until set."
+        ],
+        "nutrition_summary": {
+            "Calories": "480",
+            "Protein": "32g",
+            "Carbohydrates": "48g",
+            "Fat": "18g",
+            "Fiber": "7g"
+        },
+        "tags": [
+            "one_pan",
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Canned_Mackerel_Black_Bean_Tacos": {
+        "category": "Dinner",
+        "cuisine": "Mexican-Inspired",
+        "servings": "3",
+        "prep_time": "10",
+        "cook_time": "10",
+        "ingredients": [
+            {
+                "item": "Canned Mackerel",
+                "quantity": "2",
+                "unit": "x 125 g cans (drained)"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "250",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "120",
+                "unit": "g (for 6 small tortillas)"
+            },
+            {
+                "item": "Bell Pepper",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Warm tortillas in dry pan.",
+            "Heat oil; sauté diced bell pepper 3 min.",
+            "Add black beans and flaked mackerel; heat 2 min.",
+            "Fill tortillas and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "520",
+            "Protein": "36g",
+            "Carbohydrates": "56g",
+            "Fat": "18g",
+            "Fiber": "11g"
+        },
+        "tags": [
+            "high_fiber",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Canned_Salmon_Potato_Apple_Patties": {
+        "category": "Lunch",
+        "cuisine": "Family Classic",
+        "servings": "3",
+        "prep_time": "15",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Canned Salmon",
+                "quantity": "1",
+                "unit": "x 210 g can (drained)"
+            },
+            {
+                "item": "Potatoes",
+                "quantity": "250",
+                "unit": "g"
+            },
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "small, grated"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "1",
+                "unit": "large"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1.5",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Boil and mash potatoes; cool.",
+            "Combine with salmon, grated apple, beaten egg and flour.",
+            "Shape 6 patties; pan-fry 3 min each side."
+        ],
+        "nutrition_summary": {
+            "Calories": "410",
+            "Protein": "28g",
+            "Carbohydrates": "46g",
+            "Fat": "12g",
+            "Fiber": "5g"
+        },
+        "tags": [
+            "make_ahead",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "King_Dory_Oat_Crusted_Fillet": {
+        "category": "Dinner",
+        "cuisine": "European Rustic",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "King Dory Fillets (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Oats",
+                "quantity": "40",
+                "unit": "g (ground)"
+            },
+            {
+                "item": "Milk",
+                "quantity": "60",
+                "unit": "ml"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "160",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Dip fillets in milk then coat with ground oats.",
+            "Pan-fry in oil 4 min per side.",
+            "Steam broccoli; serve alongside."
+        ],
+        "nutrition_summary": {
+            "Calories": "380",
+            "Protein": "36g",
+            "Carbohydrates": "26g",
+            "Fat": "14g",
+            "Fiber": "6g"
+        },
+        "tags": [
+            "gluten_light",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Australian_Sardine_Tomato_Mushroom_Pasta": {
+        "category": "Dinner",
+        "cuisine": "Italian-Inspired",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Australian Sardines (Fresh)",
+                "quantity": "280",
+                "unit": "g (cleaned, filleted)"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "150",
+                "unit": "g"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "220",
+                "unit": "g (crushed)"
+            },
+            {
+                "item": "Whole Wheat Pasta",
+                "quantity": "160",
+                "unit": "g (dry)"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Cook pasta; reserve 1/4 cup water, drain.",
+            "Sauté garlic and sliced mushrooms 3 min.",
+            "Add crushed tomatoes; simmer 4 min.",
+            "Add sardine fillets; poach 3 min until opaque.",
+            "Toss with pasta and reserved water 1 min."
+        ],
+        "nutrition_summary": {
+            "Calories": "500",
+            "Protein": "40g",
+            "Carbohydrates": "60g",
+            "Fat": "14g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "omega-3",
+            "underrepresented_fish",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Barramundi_Peanut_Satay_Stir_Fry": {
+        "category": "Dinner",
+        "cuisine": "Asian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Barramundi (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Peanut Butter",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Bell Pepper",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Milk",
+                "quantity": "120",
+                "unit": "ml"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Blend peanut butter with milk to make light satay sauce.",
+            "Stir-fry broccoli and bell pepper 3 min.",
+            "Add diced barramundi; cook 4 min.",
+            "Pour satay sauce; simmer 3 min until thickened."
+        ],
+        "nutrition_summary": {
+            "Calories": "490",
+            "Protein": "44g",
+            "Carbohydrates": "18g",
+            "Fat": "28g",
+            "Fiber": "5g"
+        },
+        "tags": [
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Ling_Zucchini_Egg_Bake": {
+        "category": "Lunch",
+        "cuisine": "Casserole",
+        "servings": "4",
+        "prep_time": "10",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Ling Fillets (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Zucchini",
+                "quantity": "240",
+                "unit": "g"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "4",
+                "unit": "large"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Milk",
+                "quantity": "200",
+                "unit": "ml"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Pre-heat oven to 190 °C.",
+            "Flake lightly steamed ling; slice zucchini.",
+            "Whisk eggs, milk and flour.",
+            "Oil a baking dish; layer fish and zucchini, pour egg mix.",
+            "Bake 20 – 25 min until set."
+        ],
+        "nutrition_summary": {
+            "Calories": "360",
+            "Protein": "34g",
+            "Carbohydrates": "14g",
+            "Fat": "20g",
+            "Fiber": "2g"
+        },
+        "tags": [
+            "protein_rich",
+            "meal_prep",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Barramundi_Broccoli_Stir_Fry": {
+        "category": "Dinner",
+        "cuisine": "Asian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Barramundi (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "150",
+                "unit": "g"
+            },
+            {
+                "item": "Carrots",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Bell Pepper",
+                "quantity": "70",
+                "unit": "g"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Brown Rice",
+                "quantity": "120",
+                "unit": "g (cooked)"
+            }
+        ],
+        "instructions": [
+            "Cook brown rice according to package directions and keep warm.",
+            "Slice vegetables thinly; mince the garlic.",
+            "Heat olive oil in a large skillet over medium-high heat. Add garlic and stir 30 s.",
+            "Add carrots, broccoli and bell pepper; sauté 3 min.",
+            "Push veg to the sides, add barramundi pieces; sear 2 min per side until opaque.",
+            "Toss everything together for 1 min more and serve over the hot rice."
+        ],
+        "nutrition_summary": {
+            "Calories": "420",
+            "Protein": "38g",
+            "Carbohydrates": "38g",
+            "Fat": "14g",
+            "Fiber": "7g"
+        },
+        "tags": [
+            "omega-3",
+            "underrepresented_fish",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Sardine_Chickpea_Salad": {
+        "category": "Lunch",
+        "cuisine": "Mediterranean",
+        "servings": "2",
+        "prep_time": "5",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Canned Sardines",
+                "quantity": "1",
+                "unit": "x 110 g can (drained)"
+            },
+            {
+                "item": "Chickpeas",
+                "quantity": "200",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Spinach",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Rough-chop tomatoes and spinach.",
+            "In a bowl combine chickpeas, tomatoes and spinach.",
+            "Flake sardines into the mix.",
+            "Dress with olive oil and lemon juice; toss and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "360",
+            "Protein": "24g",
+            "Carbohydrates": "28g",
+            "Fat": "18g",
+            "Fiber": "8g"
+        },
+        "tags": [
+            "no-cook",
+            "omega-3",
+            "high_fiber",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Rainbow_Trout_Sweet_Potato_Bake": {
+        "category": "Dinner",
+        "cuisine": "Australian",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Rainbow Trout (Fresh)",
+                "quantity": "2",
+                "unit": "fillets (~150 g each)"
+            },
+            {
+                "item": "Sweet Potatoes",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Onions",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1.5",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Pre-heat oven to 200 °C.",
+            "Cut sweet potatoes into fries; slice onion.",
+            "Toss fries and onion with half the olive oil, spread on tray; bake 15 min.",
+            "Add broccoli florets and trout fillets (skin-side up), brush with remaining oil; bake 10 min more until trout flakes.",
+            "Serve immediately."
+        ],
+        "nutrition_summary": {
+            "Calories": "480",
+            "Protein": "40g",
+            "Carbohydrates": "45g",
+            "Fat": "17g",
+            "Fiber": "8g"
+        },
+        "tags": [
+            "sheet_pan",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tuna_Mushroom_Wholewheat_Pasta": {
+        "category": "Dinner",
+        "cuisine": "Italian-Inspired",
+        "servings": "3",
+        "prep_time": "10",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "Canned Tuna",
+                "quantity": "1",
+                "unit": "x 185 g can (drained)"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "200",
+                "unit": "g"
+            },
+            {
+                "item": "Whole Wheat Pasta",
+                "quantity": "240",
+                "unit": "g (dry)"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Milk",
+                "quantity": "250",
+                "unit": "ml"
+            },
+            {
+                "item": "Onions",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Cook pasta until al dente; reserve ¼ cup pasta water, drain.",
+            "Sauté onions and sliced mushrooms in olive oil 5 min.",
+            "Stir in tuna, milk and half the cheese; simmer 2 min.",
+            "Add pasta and reserved water; toss 1 min.",
+            "Top with remaining cheese and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "510",
+            "Protein": "34g",
+            "Carbohydrates": "62g",
+            "Fat": "14g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "high_fiber",
+            "pantry_friendly",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Snapper_Tomato_Chickpea_Stew": {
+        "category": "Dinner",
+        "cuisine": "North African-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "Snapper Fillets (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Chickpeas",
+                "quantity": "200",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "250",
+                "unit": "g (crushed)"
+            },
+            {
+                "item": "Bell Pepper",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Onions",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Brown Rice",
+                "quantity": "120",
+                "unit": "g (cooked)"
+            }
+        ],
+        "instructions": [
+            "Heat oil in saucepan; sauté onion, bell pepper and garlic 4 min.",
+            "Add crushed tomatoes and chickpeas; simmer 8 min.",
+            "Nestle snapper pieces into sauce; cover and cook 6 min until fish flakes.",
+            "Serve stew over brown rice."
+        ],
+        "nutrition_summary": {
+            "Calories": "490",
+            "Protein": "41g",
+            "Carbohydrates": "54g",
+            "Fat": "12g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "one_pot",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Ling_Fishcakes_with_Apple_Slaw": {
+        "category": "Lunch",
+        "cuisine": "Modern Australian",
+        "servings": "3",
+        "prep_time": "15",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Ling Fillets (Fresh)",
+                "quantity": "350",
+                "unit": "g"
+            },
+            {
+                "item": "Potatoes",
+                "quantity": "250",
+                "unit": "g"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "1",
+                "unit": "large"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "item": "Carrots",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Spinach",
+                "quantity": "40",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1.5",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Boil and mash potatoes; cool slightly.",
+            "Flake steamed ling into mash; mix with beaten egg and flour.",
+            "Form 6 patties; pan-fry in olive oil 3 min each side.",
+            "Julienne apple and carrot; toss with spinach and a dash of olive oil.",
+            "Serve fishcakes with fresh slaw."
+        ],
+        "nutrition_summary": {
+            "Calories": "430",
+            "Protein": "33g",
+            "Carbohydrates": "46g",
+            "Fat": "12g",
+            "Fiber": "7g"
+        },
+        "tags": [
+            "omega-3",
+            "underrepresented_fish",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Flathead_Spinach_Fish_Soup": {
+        "category": "Dinner",
+        "cuisine": "European Rustic",
+        "servings": "3",
+        "prep_time": "10",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Gummy Flake (Fresh)",
+                "quantity": "350",
+                "unit": "g"
+            },
+            {
+                "item": "Spinach",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "250",
+                "unit": "g (crushed)"
+            },
+            {
+                "item": "Carrots",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Onions",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Potatoes",
+                "quantity": "200",
+                "unit": "g"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sauté onion, carrot and garlic in oil 5 min.",
+            "Add crushed tomatoes, diced potatoes and 600 ml water; simmer 12 min.",
+            "Add cubed flathead; cook 6 min until opaque.",
+            "Stir in spinach; wilt 1 min and serve hot."
+        ],
+        "nutrition_summary": {
+            "Calories": "370",
+            "Protein": "32g",
+            "Carbohydrates": "46g",
+            "Fat": "8g",
+            "Fiber": "6g"
+        },
+        "tags": [
+            "hearty_soup",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Kingfish_Lentil_Stew": {
+        "category": "Dinner",
+        "cuisine": "Spanish-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "30",
+        "ingredients": [
+            {
+                "item": "Kingfish (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Lentils",
+                "quantity": "180",
+                "unit": "g (dry)"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "200",
+                "unit": "g (crushed)"
+            },
+            {
+                "item": "Bell Pepper",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Onions",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Rinse lentils; simmer in 500 ml water 20 min.",
+            "Meanwhile sauté onion, bell pepper and garlic in oil 4 min.",
+            "Add crushed tomatoes; simmer 5 min.",
+            "Add par-cooked lentils and diced kingfish; cook 6 min until fish done and lentils tender.",
+            "Season and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "520",
+            "Protein": "46g",
+            "Carbohydrates": "54g",
+            "Fat": "12g",
+            "Fiber": "15g"
+        },
+        "tags": [
+            "high_fiber",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Basa_Zucchini_Tomato_Bake": {
+        "category": "Dinner",
+        "cuisine": "Mediterranean",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Basa Fillets (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Zucchini",
+                "quantity": "180",
+                "unit": "g"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "200",
+                "unit": "g (diced)"
+            },
+            {
+                "item": "Onions",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Preheat oven to 190 °C.",
+            "Layer sliced zucchini, diced tomatoes, onion and garlic in a lightly oiled baking dish.",
+            "Dust basa fillets with flour; lay on top, drizzle with olive oil.",
+            "Cover with foil; bake 15 min, uncover and bake 10 min until fish flakes and veg soft."
+        ],
+        "nutrition_summary": {
+            "Calories": "340",
+            "Protein": "33g",
+            "Carbohydrates": "24g",
+            "Fat": "12g",
+            "Fiber": "5g"
+        },
+        "tags": [
+            "one_dish",
+            "underrepresented_fish",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Whiting_Rice_Chickpea_Bowl": {
+        "category": "Lunch",
+        "cuisine": "Fusion",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Whiting Fillets (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Brown Rice",
+                "quantity": "240",
+                "unit": "g (cooked)"
+            },
+            {
+                "item": "Chickpeas",
+                "quantity": "160",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Spinach",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sear whiting fillets in olive oil 3 min per side; flake.",
+            "Combine warm brown rice and chickpeas in bowls.",
+            "Top with spinach, diced tomatoes and flaked whiting.",
+            "Drizzle with lemon juice and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "450",
+            "Protein": "36g",
+            "Carbohydrates": "55g",
+            "Fat": "11g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "dish_in_a_bowl",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Broccoli_Sardine_Frittata": {
+        "category": "Lunch",
+        "cuisine": "Mediterranean",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Australian Sardines (Fresh)",
+                "quantity": "180",
+                "unit": "g, cooked & flaked"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "120",
+                "unit": "g, chopped"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "3",
+                "unit": "large"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Pre-heat oven grill to high.",
+            "Blanch broccoli 2 min; drain.",
+            "Beat eggs with flour pinch salt; fold in sardines and broccoli.",
+            "Heat oil in oven-proof pan; pour mixture, cook 4 min then grill 3 min to set top."
+        ],
+        "nutrition_summary": {
+            "Calories": "380",
+            "Protein": "34g",
+            "Carbohydrates": "14g",
+            "Fat": "24g",
+            "Fiber": "3g"
+        },
+        "tags": [
+            "omega-3",
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Basa_Cabbage_Curry": {
+        "category": "Dinner",
+        "cuisine": "Indian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "18",
+        "ingredients": [
+            {
+                "item": "Basa Fillets (Fresh)",
+                "quantity": "300",
+                "unit": "g, chunks"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "180",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "220",
+                "unit": "g, crushed"
+            },
+            {
+                "item": "Onion",
+                "quantity": "80",
+                "unit": "g, chopped"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sauté onion & garlic 3 min in oil.",
+            "Add tomatoes, 250 ml water, cabbage; simmer 8 min.",
+            "Add basa, simmer 6 min; season with mild curry powder."
+        ],
+        "nutrition_summary": {
+            "Calories": "410",
+            "Protein": "32g",
+            "Carbohydrates": "30g",
+            "Fat": "14g",
+            "Fiber": "6g"
+        },
+        "tags": [
+            "one_pot",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Mackerel_Mushroom_Pasta": {
+        "category": "Dinner",
+        "cuisine": "Italian-Inspired",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Canned Mackerel",
+                "quantity": "1",
+                "unit": "× 125 g can (drained)"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "160",
+                "unit": "g, sliced"
+            },
+            {
+                "item": "Whole Wheat Pasta",
+                "quantity": "160",
+                "unit": "g (dry)"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            }
+        ],
+        "instructions": [
+            "Cook pasta; reserve ¼ cup water, drain.",
+            "Sauté garlic & mushrooms 4 min; add mackerel to warm.",
+            "Off heat, stir in yogurt, pasta & reserved water 1 min; season."
+        ],
+        "nutrition_summary": {
+            "Calories": "510",
+            "Protein": "32g",
+            "Carbohydrates": "64g",
+            "Fat": "16g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "high_fiber",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Salmon_Cheddar_Potato_Bake": {
+        "category": "Dinner",
+        "cuisine": "Family Classic",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Canned Salmon",
+                "quantity": "1",
+                "unit": "× 210 g can (drained)"
+            },
+            {
+                "item": "Potatoes",
+                "quantity": "300",
+                "unit": "g, thin-sliced"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "60",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Milk",
+                "quantity": "120",
+                "unit": "ml"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Layer half potatoes in greased dish; top with flaked salmon.",
+            "Repeat layer; pour milk, drizzle oil, sprinkle cheese.",
+            "Cover, bake 20 min @ 190 °C; uncover 5 min to brown."
+        ],
+        "nutrition_summary": {
+            "Calories": "520",
+            "Protein": "38g",
+            "Carbohydrates": "50g",
+            "Fat": "18g",
+            "Fiber": "5g"
+        },
+        "tags": [
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Yogurt_Apple_Chicken_Salad": {
+        "category": "Lunch",
+        "cuisine": "Modern Australian",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "220",
+                "unit": "g, cooked & diced"
+            },
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "medium, diced"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Spinach",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "tsp"
+            }
+        ],
+        "instructions": [
+            "Mix yogurt with oil, salt, pepper.",
+            "Combine chicken, apple, spinach; fold through dressing.",
+            "Serve chilled."
+        ],
+        "nutrition_summary": {
+            "Calories": "370",
+            "Protein": "36g",
+            "Carbohydrates": "20g",
+            "Fat": "14g",
+            "Fiber": "3g"
+        },
+        "tags": [
+            "no_cook",
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Flathead_Apple_Slaw_Tacos": {
+        "category": "Dinner",
+        "cuisine": "Fusion",
+        "servings": "3",
+        "prep_time": "15",
+        "cook_time": "10",
+        "ingredients": [
+            {
+                "item": "Flathead Fillets (Fresh)",
+                "quantity": "320",
+                "unit": "g, strips"
+            },
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "large, julienned"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "160",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "180",
+                "unit": "g (for 6 tortillas)"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Make dough with flour, warm water, pinch salt; roll 6 tortillas, dry-cook 1 min/side.",
+            "Sear fish in oil 3 min/side.",
+            "Toss apple & cabbage with squeeze of lemon.",
+            "Fill tortillas with fish & slaw."
+        ],
+        "nutrition_summary": {
+            "Calories": "540",
+            "Protein": "37g",
+            "Carbohydrates": "60g",
+            "Fat": "16g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "handheld",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Gummy_Flake_Black_Bean_Chili": {
+        "category": "Main",
+        "cuisine": "Tex-Mex",
+        "servings": "3",
+        "prep_time": "10",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Gummy Flake (Fresh)",
+                "quantity": "350",
+                "unit": "g, cubed"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "300",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "250",
+                "unit": "g, crushed"
+            },
+            {
+                "item": "Onion",
+                "quantity": "80",
+                "unit": "g, chopped"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            }
+        ],
+        "instructions": [
+            "Sauté onion & garlic 3 min in oil.",
+            "Add tomatoes, beans, 200 ml water; simmer 10 min.",
+            "Add fish; cook 6 min. Season with chili powder."
+        ],
+        "nutrition_summary": {
+            "Calories": "460",
+            "Protein": "40g",
+            "Carbohydrates": "44g",
+            "Fat": "12g",
+            "Fiber": "12g"
+        },
+        "tags": [
+            "high_fiber",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "King_Dory_Yogurt_Cabbage_Bake": {
+        "category": "Dinner",
+        "cuisine": "European Rustic",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "King Dory Fillets (Fresh)",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "200",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Toss cabbage with oil, place in baking dish.",
+            "Lay fish on top; smear yogurt mixed with flour & herbs.",
+            "Bake 18 min @ 190 °C until fish flakes."
+        ],
+        "nutrition_summary": {
+            "Calories": "410",
+            "Protein": "36g",
+            "Carbohydrates": "18g",
+            "Fat": "20g",
+            "Fiber": "5g"
+        },
+        "tags": [
+            "omega-3",
+            "one_dish",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Kingfish_Peanut_Pasta": {
+        "category": "Dinner",
+        "cuisine": "Fusion",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Kingfish (Fresh)",
+                "quantity": "320",
+                "unit": "g, cubes"
+            },
+            {
+                "item": "Whole Wheat Pasta",
+                "quantity": "160",
+                "unit": "g (dry)"
+            },
+            {
+                "item": "Peanut Butter",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Milk",
+                "quantity": "120",
+                "unit": "ml"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Cook pasta, add broccoli last 2 min; drain, reserve ¼ cup water.",
+            "Blend peanut butter & milk for sauce.",
+            "Sear kingfish 4 min; combine with pasta, sauce & water 1 min."
+        ],
+        "nutrition_summary": {
+            "Calories": "560",
+            "Protein": "46g",
+            "Carbohydrates": "54g",
+            "Fat": "20g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "omega-3",
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Trout_Mushroom_Rice_Bowl": {
+        "category": "Dinner",
+        "cuisine": "Asian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Rainbow Trout (Fresh)",
+                "quantity": "300",
+                "unit": "g, fillets"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "150",
+                "unit": "g, sliced"
+            },
+            {
+                "item": "Brown Rice",
+                "quantity": "240",
+                "unit": "g (cooked)"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            }
+        ],
+        "instructions": [
+            "Sear trout skin-side 3 min, flip 2 min; flake.",
+            "Sauté garlic & mushrooms 4 min.",
+            "Assemble rice bowls with veg & trout; drizzle yogurt thinned with water."
+        ],
+        "nutrition_summary": {
+            "Calories": "480",
+            "Protein": "38g",
+            "Carbohydrates": "44g",
+            "Fat": "16g",
+            "Fiber": "5g"
+        },
+        "tags": [
+            "omega-3",
+            "quick",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Snapper_Tofu_Stir_Fry": {
+        "category": "Dinner",
+        "cuisine": "Asian",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "14",
+        "ingredients": [
+            {
+                "item": "Snapper Fillets (Fresh)",
+                "quantity": "300",
+                "unit": "g, strips"
+            },
+            {
+                "item": "Tofu",
+                "quantity": "140",
+                "unit": "g, cubed"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Bell Pepper",
+                "quantity": "80",
+                "unit": "g, strips"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            }
+        ],
+        "instructions": [
+            "Stir-fry garlic, tofu & veg 4 min.",
+            "Add snapper; cook 4 min until opaque.",
+            "Season with soy sauce; serve with rice (optional)."
+        ],
+        "nutrition_summary": {
+            "Calories": "420",
+            "Protein": "42g",
+            "Carbohydrates": "18g",
+            "Fat": "20g",
+            "Fiber": "5g"
+        },
+        "tags": [
+            "omega-3",
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Spanish_Mackerel_Broccoli_Stir_Fry": {
+        "category": "Dinner",
+        "cuisine": "Asian-Inspired",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "10",
+        "ingredients": [
+            {
+                "item": "Spanish Mackerel (Fresh)",
+                "quantity": "300",
+                "unit": "g, cubes"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "160",
+                "unit": "g"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            }
+        ],
+        "instructions": [
+            "Dust mackerel cubes with flour.",
+            "Stir-fry garlic & broccoli 3 min.",
+            "Add fish; cook 4 min until browned; splash water to steam 1 min."
+        ],
+        "nutrition_summary": {
+            "Calories": "430",
+            "Protein": "42g",
+            "Carbohydrates": "14g",
+            "Fat": "22g",
+            "Fiber": "4g"
+        },
+        "tags": [
+            "omega-3",
+            "quick",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tasmanian_Salmon_Cheddar_Pasta": {
+        "category": "Dinner",
+        "cuisine": "Baked Pasta",
+        "servings": "3",
+        "prep_time": "12",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "Tasmanian Salmon (Fresh)",
+                "quantity": "350",
+                "unit": "g, cooked & flaked"
+            },
+            {
+                "item": "Whole Wheat Pasta",
+                "quantity": "240",
+                "unit": "g (dry)"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "80",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Milk",
+                "quantity": "200",
+                "unit": "ml"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Boil pasta 8 min; drain.",
+            "Combine pasta, salmon, milk, half cheese; transfer to dish.",
+            "Top with remaining cheese, drizzle oil; bake 12 min @ 190 °C."
+        ],
+        "nutrition_summary": {
+            "Calories": "560",
+            "Protein": "46g",
+            "Carbohydrates": "58g",
+            "Fat": "18g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "omega-3",
+            "family_friendly",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Whiting_Zucchini_Yogurt_Skillet": {
+        "category": "Dinner",
+        "cuisine": "Mediterranean",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Whiting Fillets (Fresh)",
+                "quantity": "300",
+                "unit": "g, fillets"
+            },
+            {
+                "item": "Zucchini",
+                "quantity": "200",
+                "unit": "g, half-moons"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sauté garlic & zucchini 3 min.",
+            "Add whiting; cook 4 min per side.",
+            "Serve topped with yogurt mixed with lemon & herbs."
+        ],
+        "nutrition_summary": {
+            "Calories": "400",
+            "Protein": "36g",
+            "Carbohydrates": "10g",
+            "Fat": "22g",
+            "Fiber": "2g"
+        },
+        "tags": [
+            "omega-3",
+            "quick",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Yellowfin_Tuna_Black_Bean_Salad": {
+        "category": "Lunch",
+        "cuisine": "South-west",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "Yellowfin Tuna (Fresh)",
+                "quantity": "240",
+                "unit": "g, seared & diced"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "220",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Bell Pepper",
+                "quantity": "80",
+                "unit": "g, diced"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "120",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Dice fish and Sear fish in oil.",
+            "Allow fish to cool",
+            "Combine beans, pepper, cabbage in bowl.",
+            "Add cooled tuna; dress with oil & lemon.",
+            "Toss and serve chilled."
+        ],
+        "nutrition_summary": {
+            "Calories": "450",
+            "Protein": "44g",
+            "Carbohydrates": "28g",
+            "Fat": "18g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "high_protein",
+            "omega-3",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Chicken_Cabbage_Fried_Rice": {
+        "category": "Dinner",
+        "cuisine": "Asian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "300",
+                "unit": "g, diced"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "150",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "120",
+                "unit": "g, sliced"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Brown Rice",
+                "quantity": "240",
+                "unit": "g (cooked)"
+            }
+        ],
+        "instructions": [
+            "Heat oil in wok; stir-fry garlic 30 s.",
+            "Add chicken; cook 4 min.",
+            "Add cabbage and mushrooms; stir-fry 3 min.",
+            "Fold in rice; heat 2 min, season and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "480",
+            "Protein": "46g",
+            "Carbohydrates": "48g",
+            "Fat": "14g",
+            "Fiber": "6g"
+        },
+        "tags": [
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Sweet_Potato_Chicken_Cheddar_Bake": {
+        "category": "Dinner",
+        "cuisine": "Family Classic",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Sweet Potatoes",
+                "quantity": "350",
+                "unit": "g, cubes"
+            },
+            {
+                "item": "Chicken Breast",
+                "quantity": "250",
+                "unit": "g, strips"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "70",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "100",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Toss sweet potato and chicken with oil; bake 15 min @ 200 °C.",
+            "Scatter beans and cheese; bake 8 min more until golden."
+        ],
+        "nutrition_summary": {
+            "Calories": "540",
+            "Protein": "46g",
+            "Carbohydrates": "50g",
+            "Fat": "18g",
+            "Fiber": "8g"
+        },
+        "tags": [
+            "one_pan",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tofu_Cabbage_Black_Bean_Stir_Fry": {
+        "category": "Dinner",
+        "cuisine": "Asian",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "10",
+        "ingredients": [
+            {
+                "item": "Tofu",
+                "quantity": "250",
+                "unit": "g, firm, cubes"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "150",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "150",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "2",
+                "unit": "cloves"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sear tofu in oil 3 min; push aside.",
+            "Add garlic and cabbage; stir-fry 3 min.",
+            "Stir in beans; heat 2 min, season lightly."
+        ],
+        "nutrition_summary": {
+            "Calories": "420",
+            "Protein": "31g",
+            "Carbohydrates": "34g",
+            "Fat": "18g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "high_fiber",
+            "plant_based",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Yogurt_Apple_Banana_Oat_Smoothie": {
+        "category": "Breakfast",
+        "cuisine": "Smoothie",
+        "servings": "1",
+        "prep_time": "5",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Yogurt",
+                "quantity": "150",
+                "unit": "g"
+            },
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "small, diced"
+            },
+            {
+                "item": "Banana",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "item": "Oats",
+                "quantity": "30",
+                "unit": "g"
+            },
+            {
+                "item": "Milk",
+                "quantity": "100",
+                "unit": "ml"
+            }
+        ],
+        "instructions": [
+            "Blend all ingredients until creamy; serve immediately."
+        ],
+        "nutrition_summary": {
+            "Calories": "420",
+            "Protein": "18g",
+            "Carbohydrates": "70g",
+            "Fat": "8g",
+            "Fiber": "8g"
+        },
+        "tags": [
+            "no_cook",
+            "quick",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Chicken_Mushroom_Zucchini_Pasta": {
+        "category": "Dinner",
+        "cuisine": "Italian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "250",
+                "unit": "g, strips"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "150",
+                "unit": "g, sliced"
+            },
+            {
+                "item": "Zucchini",
+                "quantity": "150",
+                "unit": "g, half-moons"
+            },
+            {
+                "item": "Whole Wheat Pasta",
+                "quantity": "160",
+                "unit": "g (dry)"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "50",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Cook pasta; reserve ¼ cup water, drain.",
+            "Sauté chicken in oil 4 min; add veg 4 min.",
+            "Toss with pasta, cheese and splash water 1 min."
+        ],
+        "nutrition_summary": {
+            "Calories": "560",
+            "Protein": "47g",
+            "Carbohydrates": "60g",
+            "Fat": "16g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tofu_Sweet_Potato_Curry": {
+        "category": "Main",
+        "cuisine": "Indian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "Tofu",
+                "quantity": "250",
+                "unit": "g, cubes"
+            },
+            {
+                "item": "Sweet Potatoes",
+                "quantity": "250",
+                "unit": "g, diced"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "120",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "200",
+                "unit": "g, crushed"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sauté sweet potato in oil 4 min.",
+            "Add tomatoes + 250 ml water; simmer 10 min.",
+            "Add tofu and beans; cook 5 min.",
+            "Off heat, swirl in yogurt, season."
+        ],
+        "nutrition_summary": {
+            "Calories": "500",
+            "Protein": "28g",
+            "Carbohydrates": "66g",
+            "Fat": "14g",
+            "Fiber": "12g"
+        },
+        "tags": [
+            "one_pot",
+            "plant_based",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Cheddar_Mushroom_Oat_Burgers": {
+        "category": "Lunch",
+        "cuisine": "Fusion",
+        "servings": "3",
+        "prep_time": "15",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "60",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "200",
+                "unit": "g, minced"
+            },
+            {
+                "item": "Tofu",
+                "quantity": "150",
+                "unit": "g, crumbled"
+            },
+            {
+                "item": "Oats",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Zucchini",
+                "quantity": "120",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Mix all ingredients; rest 5 min.",
+            "Form 6 patties; pan-fry 4 min/side until browned."
+        ],
+        "nutrition_summary": {
+            "Calories": "420",
+            "Protein": "24g",
+            "Carbohydrates": "34g",
+            "Fat": "22g",
+            "Fiber": "7g"
+        },
+        "tags": [
+            "vegetarian",
+            "make_ahead",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Chicken_Apple_Cabbage_Slaw_Wraps": {
+        "category": "Dinner",
+        "cuisine": "Modern Australian",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "240",
+                "unit": "g, cooked & shredded"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "200",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "medium, julienned"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "50",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "120",
+                "unit": "g (for 4 wraps)"
+            }
+        ],
+        "instructions": [
+            "Whisk yogurt with pinch salt as dressing.",
+            "Toss chicken, cabbage, apple; coat with dressing.",
+            "Make quick wraps from flour + warm water; fill and fold."
+        ],
+        "nutrition_summary": {
+            "Calories": "560",
+            "Protein": "46g",
+            "Carbohydrates": "56g",
+            "Fat": "18g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "handheld",
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tofu_Zucchini_Noodle_Bowl": {
+        "category": "Dinner",
+        "cuisine": "Asian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "10",
+        "ingredients": [
+            {
+                "item": "Tofu",
+                "quantity": "250",
+                "unit": "g, cubes"
+            },
+            {
+                "item": "Zucchini",
+                "quantity": "200",
+                "unit": "g, spiralised"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "120",
+                "unit": "g, sliced"
+            },
+            {
+                "item": "Sweet Potatoes",
+                "quantity": "200",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sauté tofu 3 min; add mushrooms 2 min.",
+            "Add zucchini noodles and grated sweet potato; stir-fry 3 min, season."
+        ],
+        "nutrition_summary": {
+            "Calories": "420",
+            "Protein": "28g",
+            "Carbohydrates": "38g",
+            "Fat": "18g",
+            "Fiber": "8g"
+        },
+        "tags": [
+            "low_carb",
+            "plant_based",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Banana_Oat_Cheddar_Muffins": {
+        "category": "Snack",
+        "cuisine": "Baked Goods",
+        "servings": "6",
+        "prep_time": "10",
+        "cook_time": "18",
+        "ingredients": [
+            {
+                "item": "Banana",
+                "quantity": "2",
+                "unit": "medium, mashed"
+            },
+            {
+                "item": "Oats",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "60",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "90",
+                "unit": "g"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "1",
+                "unit": "large"
+            }
+        ],
+        "instructions": [
+            "Mix all ingredients to batter; divide into 6 muffin cups.",
+            "Bake 18 min @ 180 °C until set."
+        ],
+        "nutrition_summary": {
+            "Calories": "200",
+            "Protein": "7g",
+            "Carbohydrates": "28g",
+            "Fat": "7g",
+            "Fiber": "3g"
+        },
+        "tags": [
+            "sweet_savoury",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Quinoa_Kale_Power_Bowl": {
+        "category": "Lunch",
+        "cuisine": "Fusion",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Quinoa",
+                "quantity": "200",
+                "unit": "g (cooked)"
+            },
+            {
+                "item": "Kale",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "100",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Pumpkin Seeds",
+                "quantity": "20",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Toss warm quinoa with olive oil and lemon juice.",
+            "Fold in chopped kale until wilted.",
+            "Top with black beans and pumpkin seeds; serve warm."
+        ],
+        "nutrition_summary": {
+            "Calories": "520",
+            "Protein": "22g",
+            "Carbohydrates": "60g",
+            "Fat": "22g",
+            "Fiber": "12g"
+        },
+        "tags": [
+            "plant_based",
+            "high_fiber",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Pumpkin_Seed_Crusted_Chicken": {
+        "category": "Dinner",
+        "cuisine": "Modern Australian",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "18",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "300",
+                "unit": "g"
+            },
+            {
+                "item": "Pumpkin Seeds",
+                "quantity": "40",
+                "unit": "g (ground)"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "1",
+                "unit": "large (beaten)"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Zucchini",
+                "quantity": "120",
+                "unit": "g, grilled"
+            }
+        ],
+        "instructions": [
+            "Dust chicken in flour, dip in egg, press into ground pumpkin seeds.",
+            "Pan-sear in olive oil 4 min/side, then finish 8 min in 180 °C oven.",
+            "Serve with grilled zucchini."
+        ],
+        "nutrition_summary": {
+            "Calories": "550",
+            "Protein": "48g",
+            "Carbohydrates": "14g",
+            "Fat": "32g",
+            "Fiber": "4g"
+        },
+        "tags": [
+            "high_protein",
+            "gluten_light",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Coconut_Curry_Sweet_Potato_Tofu": {
+        "category": "Main",
+        "cuisine": "Indian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Sweet Potatoes",
+                "quantity": "300",
+                "unit": "g, diced"
+            },
+            {
+                "item": "Tofu",
+                "quantity": "250",
+                "unit": "g, cubes"
+            },
+            {
+                "item": "Coconut Milk",
+                "quantity": "200",
+                "unit": "ml"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "150",
+                "unit": "g, crushed"
+            },
+            {
+                "item": "Kale",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sauté sweet potato in oil 4 min.",
+            "Add tomatoes and 150 ml water; simmer 10 min.",
+            "Stir in coconut milk and tofu; cook 6 min.",
+            "Fold in kale; wilt 1 min and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "600",
+            "Protein": "22g",
+            "Carbohydrates": "72g",
+            "Fat": "28g",
+            "Fiber": "11g"
+        },
+        "tags": [
+            "one_pot",
+            "plant_based",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Kale_Apple_Yogurt_Smoothie": {
+        "category": "Breakfast",
+        "cuisine": "Smoothie",
+        "servings": "1",
+        "prep_time": "5",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Kale",
+                "quantity": "50",
+                "unit": "g"
+            },
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "small"
+            },
+            {
+                "item": "Banana",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "150",
+                "unit": "g"
+            },
+            {
+                "item": "Milk",
+                "quantity": "100",
+                "unit": "ml"
+            }
+        ],
+        "instructions": [
+            "Blend all ingredients until smooth; serve immediately."
+        ],
+        "nutrition_summary": {
+            "Calories": "380",
+            "Protein": "16g",
+            "Carbohydrates": "64g",
+            "Fat": "6g",
+            "Fiber": "7g"
+        },
+        "tags": [
+            "no_cook",
+            "quick",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Banana_Coconut_Oat_Pancakes": {
+        "category": "Snack",
+        "cuisine": "Baked Goods",
+        "servings": "4",
+        "prep_time": "10",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Banana",
+                "quantity": "2",
+                "unit": "medium, mashed"
+            },
+            {
+                "item": "Oats",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Coconut Milk",
+                "quantity": "100",
+                "unit": "ml"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "1",
+                "unit": "large"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "30",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "tsp"
+            }
+        ],
+        "instructions": [
+            "Combine all ingredients to thick batter.",
+            "Cook 8 small pancakes in lightly oiled pan, 2 min/side."
+        ],
+        "nutrition_summary": {
+            "Calories": "220",
+            "Protein": "7g",
+            "Carbohydrates": "28g",
+            "Fat": "9g",
+            "Fiber": "3g"
+        },
+        "tags": [
+            "sweet_savoury",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Quinoa_Black_Bean_Stuffed_Sweet_Potato": {
+        "category": "Dinner",
+        "cuisine": "Mexican-Inspired",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "30",
+        "ingredients": [
+            {
+                "item": "Sweet Potatoes",
+                "quantity": "2",
+                "unit": "medium"
+            },
+            {
+                "item": "Quinoa",
+                "quantity": "150",
+                "unit": "g (cooked)"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "150",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "60",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Kale",
+                "quantity": "60",
+                "unit": "g, chopped"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Roast sweet potatoes 30 min @ 200 °C until tender; halve and scoop slightly.",
+            "Mix quinoa, beans, kale and half cheese; fill potatoes.",
+            "Top with remaining cheese; bake 5 min to melt."
+        ],
+        "nutrition_summary": {
+            "Calories": "600",
+            "Protein": "25g",
+            "Carbohydrates": "80g",
+            "Fat": "22g",
+            "Fiber": "14g"
+        },
+        "tags": [
+            "high_fiber",
+            "vegetarian",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Chicken_Avocado_Quinoa_Salad": {
+        "category": "Lunch",
+        "cuisine": "Modern Australian",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "250",
+                "unit": "g, grilled & sliced"
+            },
+            {
+                "item": "Quinoa",
+                "quantity": "200",
+                "unit": "g (cooked)"
+            },
+            {
+                "item": "Avocado",
+                "quantity": "1",
+                "unit": "medium, diced"
+            },
+            {
+                "item": "Kale",
+                "quantity": "60",
+                "unit": "g, chopped"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Toss warm quinoa with olive oil and lemon juice.",
+            "Fold through kale until slightly wilted.",
+            "Add chicken and avocado; mix gently and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "620",
+            "Protein": "38g",
+            "Carbohydrates": "48g",
+            "Fat": "30g",
+            "Fiber": "11g"
+        },
+        "tags": [
+            "high_protein",
+            "gluten_free",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tofu_Ricotta_Stuffed_Zucchini_Boats": {
+        "category": "Dinner",
+        "cuisine": "Italian-Inspired",
+        "servings": "2",
+        "prep_time": "15",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Zucchini",
+                "quantity": "2",
+                "unit": "large"
+            },
+            {
+                "item": "Tofu",
+                "quantity": "200",
+                "unit": "g, crumbled"
+            },
+            {
+                "item": "Ricotta Cheese",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "150",
+                "unit": "g, diced"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Halve zucchinis lengthwise; scoop centres.",
+            "Sauté garlic, tofu and diced tomato 4 min; stir in ricotta.",
+            "Stuff mixture into zucchini shells; drizzle oil.",
+            "Bake 20 min at 190 °C."
+        ],
+        "nutrition_summary": {
+            "Calories": "480",
+            "Protein": "28g",
+            "Carbohydrates": "20g",
+            "Fat": "32g",
+            "Fiber": "5g"
+        },
+        "tags": [
+            "vegetarian",
+            "low_carb",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Mushroom_Cheddar_Oat_Quiche": {
+        "category": "Lunch",
+        "cuisine": "Baked Goods",
+        "servings": "3",
+        "prep_time": "15",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Oats",
+                "quantity": "80",
+                "unit": "g, ground"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "3",
+                "unit": "large"
+            },
+            {
+                "item": "Milk",
+                "quantity": "150",
+                "unit": "ml"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "180",
+                "unit": "g, sliced"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "80",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Mix oats with 2 Tbsp water; press into greased pie dish as crust.",
+            "Par-bake 8 min at 180 °C.",
+            "Sauté mushrooms 4 min in oil.",
+            "Whisk eggs and milk; stir in cheese and mushrooms.",
+            "Pour over crust; bake 17 min until set."
+        ],
+        "nutrition_summary": {
+            "Calories": "430",
+            "Protein": "24g",
+            "Carbohydrates": "30g",
+            "Fat": "22g",
+            "Fiber": "4g"
+        },
+        "tags": [
+            "vegetarian",
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Cabbage_Yogurt_Pumpkin_Seed_Slaw": {
+        "category": "Side",
+        "cuisine": "Fusion",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Cabbage",
+                "quantity": "180",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "small, julienned"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Pumpkin Seeds",
+                "quantity": "20",
+                "unit": "g"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Whisk yogurt and lemon for dressing.",
+            "Toss cabbage and apple; coat with dressing.",
+            "Top with pumpkin seeds and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "300",
+            "Protein": "10g",
+            "Carbohydrates": "34g",
+            "Fat": "16g",
+            "Fiber": "7g"
+        },
+        "tags": [
+            "probiotic",
+            "no_cook",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Banana_Chia_Overnight_Oats": {
+        "category": "Breakfast",
+        "cuisine": "No-Cook",
+        "servings": "1",
+        "prep_time": "5",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Oats",
+                "quantity": "50",
+                "unit": "g"
+            },
+            {
+                "item": "Chia Seeds",
+                "quantity": "15",
+                "unit": "g"
+            },
+            {
+                "item": "Banana",
+                "quantity": "1",
+                "unit": "small, mashed"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Milk",
+                "quantity": "120",
+                "unit": "ml"
+            }
+        ],
+        "instructions": [
+            "Combine all ingredients in a jar; refrigerate overnight.",
+            "Stir and eat cold."
+        ],
+        "nutrition_summary": {
+            "Calories": "390",
+            "Protein": "14g",
+            "Carbohydrates": "55g",
+            "Fat": "14g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "make_ahead",
+            "high_fiber",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Sweet_Potato_Black_Bean_Kale_Enchiladas": {
+        "category": "Dinner",
+        "cuisine": "Mexican",
+        "servings": "2",
+        "prep_time": "15",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Sweet Potatoes",
+                "quantity": "300",
+                "unit": "g, diced"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "200",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Kale",
+                "quantity": "80",
+                "unit": "g, chopped"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "70",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "120",
+                "unit": "g (for 4 tortillas)"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "200",
+                "unit": "g, crushed"
+            }
+        ],
+        "instructions": [
+            "Roast sweet potato 15 min at 200 °C.",
+            "Mix with beans and kale.",
+            "Make tortillas with flour & water; fill with mixture and roll.",
+            "Place in dish, cover with tomatoes and cheese; bake 10 min."
+        ],
+        "nutrition_summary": {
+            "Calories": "620",
+            "Protein": "28g",
+            "Carbohydrates": "92g",
+            "Fat": "18g",
+            "Fiber": "14g"
+        },
+        "tags": [
+            "high_fiber",
+            "vegetarian",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Chicken_Yogurt_Tzatziki_Wrap": {
+        "category": "Lunch",
+        "cuisine": "Mediterranean",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "8",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "260",
+                "unit": "g, grilled & sliced"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Cucumber",
+                "quantity": "80",
+                "unit": "g, diced"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "100",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "120",
+                "unit": "g (for 4 flatbreads)"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            }
+        ],
+        "instructions": [
+            "Mix yogurt, cucumber and garlic for tzatziki.",
+            "Make quick flatbreads; warm 1 min per side.",
+            "Fill with chicken, cabbage and tzatziki; wrap and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "560",
+            "Protein": "46g",
+            "Carbohydrates": "54g",
+            "Fat": "18g",
+            "Fiber": "7g"
+        },
+        "tags": [
+            "handheld",
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tofu_Coconut_Cabbage_Curry": {
+        "category": "Main",
+        "cuisine": "Asian",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "Tofu",
+                "quantity": "250",
+                "unit": "g, cubes"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "200",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Coconut Milk",
+                "quantity": "200",
+                "unit": "ml"
+            },
+            {
+                "item": "Onion",
+                "quantity": "60",
+                "unit": "g, sliced"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sauté onion and garlic 3 min.",
+            "Add cabbage plus 100 ml water; steam 5 min.",
+            "Pour coconut milk; add tofu; simmer 8 min, season and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "520",
+            "Protein": "24g",
+            "Carbohydrates": "26g",
+            "Fat": "38g",
+            "Fiber": "8g"
+        },
+        "tags": [
+            "plant_based",
+            "one_pot",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Apple_Ricotta_Oat_Pancakes": {
+        "category": "Breakfast",
+        "cuisine": "Baked Goods",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Apple",
+                "quantity": "1",
+                "unit": "medium, grated"
+            },
+            {
+                "item": "Ricotta Cheese",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Oats",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Eggs",
+                "quantity": "2",
+                "unit": "large"
+            },
+            {
+                "item": "Milk",
+                "quantity": "80",
+                "unit": "ml"
+            }
+        ],
+        "instructions": [
+            "Blend all ingredients to a batter.",
+            "Cook pancakes 2 min per side on a medium pan."
+        ],
+        "nutrition_summary": {
+            "Calories": "460",
+            "Protein": "20g",
+            "Carbohydrates": "56g",
+            "Fat": "18g",
+            "Fiber": "6g"
+        },
+        "tags": [
+            "sweet",
+            "vegetarian",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Cheddar_Broccoli_Quinoa_Bake": {
+        "category": "Dinner",
+        "cuisine": "Casserole",
+        "servings": "3",
+        "prep_time": "15",
+        "cook_time": "25",
+        "ingredients": [
+            {
+                "item": "Quinoa",
+                "quantity": "250",
+                "unit": "g (cooked)"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "180",
+                "unit": "g, florets"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "90",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Pumpkin Seeds",
+                "quantity": "30",
+                "unit": "g"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Mix quinoa, yogurt, half cheese and broccoli; spread in dish.",
+            "Top with remaining cheese and pumpkin seeds; drizzle oil.",
+            "Bake 20 min at 190 °C until bubbly."
+        ],
+        "nutrition_summary": {
+            "Calories": "580",
+            "Protein": "27g",
+            "Carbohydrates": "60g",
+            "Fat": "28g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "vegetarian",
+            "meal_prep",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Chicken_Avocado_Open_Sandwich": {
+        "category": "Lunch",
+        "cuisine": "Modern Australian",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "8",
+        "ingredients": [
+            {
+                "item": "Whole Wheat Bread",
+                "quantity": "4",
+                "unit": "slices"
+            },
+            {
+                "item": "Chicken Breast",
+                "quantity": "240",
+                "unit": "g, grilled & sliced"
+            },
+            {
+                "item": "Avocado",
+                "quantity": "1",
+                "unit": "medium, mashed"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Kale",
+                "quantity": "40",
+                "unit": "g, chopped"
+            }
+        ],
+        "instructions": [
+            "Toast bread lightly.",
+            "Mash avocado with lemon juice; spread on toast.",
+            "Top with kale and warm chicken slices; serve open-face."
+        ],
+        "nutrition_summary": {
+            "Calories": "520",
+            "Protein": "38g",
+            "Carbohydrates": "46g",
+            "Fat": "22g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "high_protein",
+            "handheld",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Mushroom_Cheddar_Toastie": {
+        "category": "Snack",
+        "cuisine": "Baked Goods",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "10",
+        "ingredients": [
+            {
+                "item": "Whole Wheat Bread",
+                "quantity": "4",
+                "unit": "slices"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "150",
+                "unit": "g, sautéed"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "80",
+                "unit": "g, grated"
+            }
+        ],
+        "instructions": [
+            "Layer mushrooms and cheese between bread slices.",
+            "Pan-grill 4 min per side until golden and cheese melts."
+        ],
+        "nutrition_summary": {
+            "Calories": "460",
+            "Protein": "22g",
+            "Carbohydrates": "46g",
+            "Fat": "22g",
+            "Fiber": "6g"
+        },
+        "tags": [
+            "vegetarian",
+            "comfort_food",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "BBQ_Black_Bean_Cabbage_Sloppy_Joes": {
+        "category": "Dinner",
+        "cuisine": "Tex-Mex",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "15",
+        "ingredients": [
+            {
+                "item": "Whole Wheat Bread",
+                "quantity": "4",
+                "unit": "buns (halved)"
+            },
+            {
+                "item": "Black Beans",
+                "quantity": "220",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "120",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "150",
+                "unit": "g, crushed"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Simmer beans and tomatoes 8 min to thicken.",
+            "Toss cabbage with lemon juice for quick slaw.",
+            "Spoon bean mix on toasted buns; top with slaw."
+        ],
+        "nutrition_summary": {
+            "Calories": "580",
+            "Protein": "26g",
+            "Carbohydrates": "96g",
+            "Fat": "8g",
+            "Fiber": "17g"
+        },
+        "tags": [
+            "high_fiber",
+            "plant_based",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Lemon_Chicken_Cabbage_Soup": {
+        "category": "Soup",
+        "cuisine": "Mediterranean",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "260",
+                "unit": "g, diced"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "160",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Onion",
+                "quantity": "60",
+                "unit": "g, chopped"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sauté onion in oil 3 min.",
+            "Add chicken; brown 3 min.",
+            "Pour in 700 ml water; add cabbage; simmer 12 min.",
+            "Finish with lemon juice; season and serve hot."
+        ],
+        "nutrition_summary": {
+            "Calories": "420",
+            "Protein": "46g",
+            "Carbohydrates": "14g",
+            "Fat": "18g",
+            "Fiber": "4g"
+        },
+        "tags": [
+            "light",
+            "high_protein",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Grilled_Chicken_Pesto_Salad": {
+        "category": "Lunch",
+        "cuisine": "Italian-Inspired",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "250",
+                "unit": "g, grilled & sliced"
+            },
+            {
+                "item": "Basil Pesto",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Quinoa",
+                "quantity": "180",
+                "unit": "g (cooked)"
+            },
+            {
+                "item": "Kale",
+                "quantity": "60",
+                "unit": "g, chopped"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Toss quinoa and kale with pesto and lemon juice.",
+            "Top with warm chicken slices; serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "610",
+            "Protein": "40g",
+            "Carbohydrates": "48g",
+            "Fat": "30g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "high_protein",
+            "gluten_free",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tofu_Teriyaki_Mushroom_Stir_Fry": {
+        "category": "Dinner",
+        "cuisine": "Asian",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Tofu",
+                "quantity": "250",
+                "unit": "g, cubes"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": "120",
+                "unit": "g, sliced"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Soy Sauce",
+                "quantity": "2",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Sear tofu in oil 3 min; add mushrooms 2 min.",
+            "Add broccoli and 50 ml water; steam 3 min.",
+            "Stir in soy; glaze 1 min and serve with rice."
+        ],
+        "nutrition_summary": {
+            "Calories": "380",
+            "Protein": "26g",
+            "Carbohydrates": "18g",
+            "Fat": "22g",
+            "Fiber": "5g"
+        },
+        "tags": [
+            "plant_based",
+            "quick",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Tofu_Cheddar_Quesadilla": {
+        "category": "Snack",
+        "cuisine": "Mexican-Inspired",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "8",
+        "ingredients": [
+            {
+                "item": "Tofu",
+                "quantity": "200",
+                "unit": "g, crumbled"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "70",
+                "unit": "g, grated"
+            },
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "120",
+                "unit": "g (for 4 tortillas)"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": "100",
+                "unit": "g, diced"
+            }
+        ],
+        "instructions": [
+            "Make 4 tortillas; warm 1 min each side.",
+            "Spread tofu, tomatoes and cheese; fold and toast 2 min/side."
+        ],
+        "nutrition_summary": {
+            "Calories": "540",
+            "Protein": "30g",
+            "Carbohydrates": "56g",
+            "Fat": "24g",
+            "Fiber": "8g"
+        },
+        "tags": [
+            "vegetarian",
+            "handheld",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Avocado_Kale_Ricotta_Toast": {
+        "category": "Breakfast",
+        "cuisine": "Fusion",
+        "servings": "2",
+        "prep_time": "6",
+        "cook_time": "4",
+        "ingredients": [
+            {
+                "item": "Whole Wheat Bread",
+                "quantity": "4",
+                "unit": "slices"
+            },
+            {
+                "item": "Avocado",
+                "quantity": "1",
+                "unit": "medium, sliced"
+            },
+            {
+                "item": "Ricotta Cheese",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Kale",
+                "quantity": "40",
+                "unit": "g, ribbons"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "tsp"
+            }
+        ],
+        "instructions": [
+            "Toast bread; spread ricotta.",
+            "Top with avocado and kale; drizzle lemon juice."
+        ],
+        "nutrition_summary": {
+            "Calories": "480",
+            "Protein": "18g",
+            "Carbohydrates": "46g",
+            "Fat": "26g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "vegetarian",
+            "no_cook",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Blackberry_Chia_Yogurt_Parfait": {
+        "category": "Breakfast",
+        "cuisine": "No-Cook",
+        "servings": "1",
+        "prep_time": "5",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Blackberries",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Chia Seeds",
+                "quantity": "15",
+                "unit": "g"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "150",
+                "unit": "g"
+            },
+            {
+                "item": "Oats",
+                "quantity": "20",
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Layer yogurt, berries, oats and chia in glass; serve chilled."
+        ],
+        "nutrition_summary": {
+            "Calories": "310",
+            "Protein": "14g",
+            "Carbohydrates": "42g",
+            "Fat": "10g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "make_ahead",
+            "probiotic",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Sweet_Potato_Tofu_Kale_Buddha_Bowl": {
+        "category": "Dinner",
+        "cuisine": "Fusion",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "20",
+        "ingredients": [
+            {
+                "item": "Sweet Potatoes",
+                "quantity": "300",
+                "unit": "g, roasted cubes"
+            },
+            {
+                "item": "Tofu",
+                "quantity": "250",
+                "unit": "g, grilled cubes"
+            },
+            {
+                "item": "Kale",
+                "quantity": "80",
+                "unit": "g, wilted"
+            },
+            {
+                "item": "Quinoa",
+                "quantity": "200",
+                "unit": "g (cooked)"
+            },
+            {
+                "item": "Pumpkin Seeds",
+                "quantity": "20",
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Arrange quinoa in bowls; add warm sweet potato, tofu and kale.",
+            "Sprinkle pumpkin seeds; drizzle optional lemon tahini."
+        ],
+        "nutrition_summary": {
+            "Calories": "640",
+            "Protein": "30g",
+            "Carbohydrates": "78g",
+            "Fat": "26g",
+            "Fiber": "14g"
+        },
+        "tags": [
+            "plant_based",
+            "high_fiber",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Cucumber_Salmon_Sushi_Bowl": {
+        "category": "Dinner",
+        "cuisine": "Japanese-Inspired",
+        "servings": "2",
+        "prep_time": "12",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Tasmanian Salmon (Fresh)",
+                "quantity": "240",
+                "unit": "g, sashimi-style slices"
+            },
+            {
+                "item": "Cucumber",
+                "quantity": "180",
+                "unit": "g, ribbons"
+            },
+            {
+                "item": "Brown Rice",
+                "quantity": "240",
+                "unit": "g (cooked, cooled)"
+            },
+            {
+                "item": "Avocado",
+                "quantity": "1",
+                "unit": "small, diced"
+            },
+            {
+                "item": "Soy Sauce",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Whisk soy and lemon for a light dressing.",
+            "Arrange rice in two bowls; top with salmon, cucumber ribbons and avocado.",
+            "Drizzle dressing just before serving."
+        ],
+        "nutrition_summary": {
+            "Calories": "520",
+            "Protein": "42g",
+            "Carbohydrates": "46g",
+            "Fat": "18g",
+            "Fiber": "6g"
+        },
+        "tags": [
+            "no_cook",
+            "omega-3",
+            "gluten_light",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Blackberry_Ricotta_Overnight_Oats": {
+        "category": "Breakfast",
+        "cuisine": "No-Cook",
+        "servings": "1",
+        "prep_time": "5",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Oats",
+                "quantity": "50",
+                "unit": "g"
+            },
+            {
+                "item": "Ricotta Cheese",
+                "quantity": "80",
+                "unit": "g"
+            },
+            {
+                "item": "Milk",
+                "quantity": "120",
+                "unit": "ml"
+            },
+            {
+                "item": "Blackberries",
+                "quantity": "100",
+                "unit": "g"
+            },
+            {
+                "item": "Chia Seeds",
+                "quantity": "10",
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Stir all ingredients in a jar; refrigerate overnight.",
+            "Enjoy chilled the next morning."
+        ],
+        "nutrition_summary": {
+            "Calories": "410",
+            "Protein": "19g",
+            "Carbohydrates": "55g",
+            "Fat": "13g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "make_ahead",
+            "high_fiber",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Cucumber_Pesto_Chickpea_Wrap": {
+        "category": "Lunch",
+        "cuisine": "Mediterranean",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Whole Wheat Flour",
+                "quantity": "120",
+                "unit": "g (for 2 large wraps)"
+            },
+            {
+                "item": "Chickpeas",
+                "quantity": "200",
+                "unit": "g (cooked/drained, mashed)"
+            },
+            {
+                "item": "Cucumber",
+                "quantity": "120",
+                "unit": "g, diced"
+            },
+            {
+                "item": "Basil Pesto",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Spinach",
+                "quantity": "40",
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Make wraps from flour & warm water; cool.",
+            "Fold pesto into mashed chickpeas; spread on wraps.",
+            "Top with cucumber and spinach; roll and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "460",
+            "Protein": "18g",
+            "Carbohydrates": "60g",
+            "Fat": "16g",
+            "Fiber": "9g"
+        },
+        "tags": [
+            "plant_based",
+            "no_cook",
+            "high_fiber",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Soy_Ginger_Tofu_Cabbage_Stir_Fry": {
+        "category": "Dinner",
+        "cuisine": "Asian",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "10",
+        "ingredients": [
+            {
+                "item": "Tofu",
+                "quantity": "250",
+                "unit": "g, cubes"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": "200",
+                "unit": "g, shredded"
+            },
+            {
+                "item": "Soy Sauce",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            },
+            {
+                "item": "Ginger",
+                "quantity": "1",
+                "unit": "tsp, grated"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Heat oil; sauté garlic & ginger 30 s.",
+            "Add tofu; brown 3 min.",
+            "Add cabbage plus 50 ml water; stir-fry 3 min.",
+            "Splash soy, toss 1 min and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "380",
+            "Protein": "26g",
+            "Carbohydrates": "18g",
+            "Fat": "22g",
+            "Fiber": "6g"
+        },
+        "tags": [
+            "quick",
+            "plant_based",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Pesto_Quinoa_Stuffed_Mushrooms": {
+        "category": "Snack",
+        "cuisine": "Italian-Inspired",
+        "servings": "4",
+        "prep_time": "12",
+        "cook_time": "18",
+        "ingredients": [
+            {
+                "item": "Mushrooms",
+                "quantity": "12",
+                "unit": "large caps, stems removed"
+            },
+            {
+                "item": "Quinoa",
+                "quantity": "150",
+                "unit": "g (cooked)"
+            },
+            {
+                "item": "Basil Pesto",
+                "quantity": "3",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Cheddar Cheese",
+                "quantity": "60",
+                "unit": "g, grated"
+            }
+        ],
+        "instructions": [
+            "Combine quinoa with pesto and half the cheese.",
+            "Fill mushroom caps; top with remaining cheese.",
+            "Bake 18 min at 190 °C until golden."
+        ],
+        "nutrition_summary": {
+            "Calories": "280",
+            "Protein": "12g",
+            "Carbohydrates": "26g",
+            "Fat": "14g",
+            "Fiber": "4g"
+        },
+        "tags": [
+            "vegetarian",
+            "finger_food",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Blackberry_Spinach_Chicken_Salad": {
+        "category": "Lunch",
+        "cuisine": "Modern Australian",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": "240",
+                "unit": "g, grilled & sliced"
+            },
+            {
+                "item": "Blackberries",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Spinach",
+                "quantity": "60",
+                "unit": "g"
+            },
+            {
+                "item": "Pumpkin Seeds",
+                "quantity": "20",
+                "unit": "g"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Whisk oil and lemon for dressing.",
+            "Toss spinach, chicken and blackberries; drizzle dressing.",
+            "Scatter pumpkin seeds just before serving."
+        ],
+        "nutrition_summary": {
+            "Calories": "460",
+            "Protein": "40g",
+            "Carbohydrates": "22g",
+            "Fat": "24g",
+            "Fiber": "6g"
+        },
+        "tags": [
+            "high_protein",
+            "no_cook",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Chilled_Cucumber_Mint_Yogurt_Soup": {
+        "category": "Side",
+        "cuisine": "Mediterranean",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Cucumber",
+                "quantity": "200",
+                "unit": "g, peeled & diced"
+            },
+            {
+                "item": "Yogurt",
+                "quantity": "200",
+                "unit": "g"
+            },
+            {
+                "item": "Mint",
+                "quantity": "10",
+                "unit": "g, fresh leaves"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "0.5",
+                "unit": "clove, minced"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": "1",
+                "unit": "Tbsp"
+            }
+        ],
+        "instructions": [
+            "Blend all ingredients until silky.",
+            "Chill 30 min; serve cold."
+        ],
+        "nutrition_summary": {
+            "Calories": "180",
+            "Protein": "9g",
+            "Carbohydrates": "18g",
+            "Fat": "8g",
+            "Fiber": "2g"
+        },
+        "tags": [
+            "probiotic",
+            "no_cook",
+            "summer"
+        ],
+        "Tags": []
+    },
+    "Soy_Honey_Barramundi_Broccoli": {
+        "category": "Dinner",
+        "cuisine": "Asian-Inspired",
+        "servings": "2",
+        "prep_time": "8",
+        "cook_time": "12",
+        "ingredients": [
+            {
+                "item": "Barramundi (Fresh)",
+                "quantity": "300",
+                "unit": "g, fillets"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": "160",
+                "unit": "g, florets"
+            },
+            {
+                "item": "Soy Sauce",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Honey",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": "1",
+                "unit": "clove"
+            }
+        ],
+        "instructions": [
+            "Mix soy and honey for glaze.",
+            "Sear fish 3 min/side; brush with glaze last minute.",
+            "Steam-sauté broccoli with garlic 4 min; plate with fish."
+        ],
+        "nutrition_summary": {
+            "Calories": "430",
+            "Protein": "38g",
+            "Carbohydrates": "20g",
+            "Fat": "18g",
+            "Fiber": "4g"
+        },
+        "tags": [
+            "omega-3",
+            "quick",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Pesto_Lentil_Zoodle_Bowl": {
+        "category": "Main",
+        "cuisine": "Fusion",
+        "servings": "2",
+        "prep_time": "10",
+        "cook_time": "5",
+        "ingredients": [
+            {
+                "item": "Zucchini",
+                "quantity": "220",
+                "unit": "g, spiralised"
+            },
+            {
+                "item": "Lentils",
+                "quantity": "220",
+                "unit": "g (cooked/drained)"
+            },
+            {
+                "item": "Basil Pesto",
+                "quantity": "2",
+                "unit": "Tbsp"
+            },
+            {
+                "item": "Cherry Tomatoes",
+                "quantity": "120",
+                "unit": "g, halved"
+            },
+            {
+                "item": "Olive Oil",
+                "quantity": "1",
+                "unit": "tsp"
+            }
+        ],
+        "instructions": [
+            "Warm oil in pan; toss zoodles 2 min.",
+            "Add lentils and tomatoes; heat 2 min.",
+            "Off heat, fold through pesto and serve."
+        ],
+        "nutrition_summary": {
+            "Calories": "360",
+            "Protein": "18g",
+            "Carbohydrates": "38g",
+            "Fat": "14g",
+            "Fiber": "10g"
+        },
+        "tags": [
+            "low_carb",
+            "high_fiber",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "Blackberry_Chia_Smoothie_Bowl": {
+        "category": "Breakfast",
+        "cuisine": "Smoothie",
+        "servings": "1",
+        "prep_time": "5",
+        "cook_time": "0",
+        "ingredients": [
+            {
+                "item": "Blackberries",
+                "quantity": "120",
+                "unit": "g"
+            },
+            {
+                "item": "Banana",
+                "quantity": "1",
+                "unit": "medium, frozen"
+            },
+            {
+                "item": "Milk",
+                "quantity": "120",
+                "unit": "ml"
+            },
+            {
+                "item": "Chia Seeds",
+                "quantity": "15",
+                "unit": "g"
+            },
+            {
+                "item": "Oats",
+                "quantity": "20",
+                "unit": "g"
+            }
+        ],
+        "instructions": [
+            "Blend all ingredients to thick purée.",
+            "Pour into bowl; add any desired toppings."
+        ],
+        "nutrition_summary": {
+            "Calories": "350",
+            "Protein": "10g",
+            "Carbohydrates": "60g",
+            "Fat": "9g",
+            "Fiber": "12g"
+        },
+        "tags": [
+            "make_ahead",
+            "high_fiber",
+            "budget"
+        ],
+        "Tags": []
+    },
+    "_tag_groups": {
+        "Dietary & Lifestyle": [
+            "Vegan",
+            "Vegetarian",
+            "Pescatarian",
+            "Gluten-Free",
+            "Dairy-Free",
+            "Low-Carb"
+        ],
+        "Nutrient Emphasis": [
+            "High-Protein",
+            "High-Fiber",
+            "Omega-3-Rich",
+            "Low-Cost"
+        ],
+        "Gut-Health Focus": [
+            "Prebiotic",
+            "Probiotic",
+            "Synbiotic",
+            "Fermented"
+        ],
+        "Cooking Method / Convenience": [
+            "Quick",
+            "No-Cook",
+            "Make-Ahead",
+            "Meal-Prep",
+            "One-Pot",
+            "Sheet-Pan",
+            "Handheld"
+        ],
+        "Meal Style & Occasion": [
+            "Comfort-Food",
+            "Hearty-Soup",
+            "Light-Meal",
+            "Family-Friendly",
+            "Kid-Friendly",
+            "Summer"
+        ],
+        "Sustainability & Seafood Diversity": [
+            "Under-represented-Fish",
+            "Sustainably-Sourced",
+            "Budget-Seafood"
+        ],
+        "Micronutrient Focus": [
+            "High-Iron",
+            "High-Calcium",
+            "High-Magnesium",
+            "High-Vitamin-C",
+            "High-Polyphenol"
+        ],
+        "Metabolic Health": [
+            "Low-GI",
+            "Low-Sugar",
+            "Low-Sodium",
+            "Low-Sat-Fat",
+            "Heart-Healthy",
+            "Anti-Inflammatory"
+        ],
+        "Allergen Flags": [
+            "Nut-Free",
+            "Soy-Free",
+            "Egg-Free",
+            "Fish-Free",
+            "FODMAP-Friendly"
+        ],
+        "Time & Effort": [
+            "30-Minute",
+            "5-Ingredient",
+            "Freezer-Friendly"
+        ],
+        "Sourcing & Seasonality": [
+            "Local",
+            "Seasonal",
+            "Organic",
+            "Waste-Smart"
+        ],
+        "Fermentation Depth": [
+            "Sprouted",
+            "Cultured-Dairy",
+            "Koji-Fermented"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "Profile": {
+      "age": "27",
+      "sex": "Male",
+      "height_cm": "183",
+      "weight_kg": "73",
+      "activity_level": "Sedentary to moderately active",
+      "dietary_notes": "no dietary sensitivities; goal is weight maintenance"
+    },
+    "DailyNutritionalNeeds": {
+      "Calories": "2100",
+      "Protein": { "unit": "g", "min": "60", "max": "110" },
+      "Carbohydrates": { "unit": "g", "min": "236", "max": "341" },
+      "Fat": { "unit": "g", "min": "47", "max": "82" },
+      "Fiber": { "unit": "g", "target": "30" },
+  
+      "Omega3": { "unit": "g", "target": "1.6" },
+      "Omega6": { "unit": "g", "target": "17" },
+      "OleicAcid": { "unit": "g", "target": "10" },
+  
+      "Polyphenols": { "unit": "mg", "target": "500" },
+      "Flavonoids": { "unit": "mg", "target": "200" },
+      "ShortChainFattyAcids": { "unit": "g", "target": "5" },
+  
+      "VitaminA": { "unit": "µg", "target": "900" },
+      "VitaminC": { "unit": "mg", "target": "90" },
+      "VitaminD": { "unit": "µg", "target": "15" },
+      "VitaminE": { "unit": "mg", "target": "15" },
+      "VitaminK": { "unit": "µg", "target": "120" },
+      "VitaminB12": { "unit": "µg", "target": "2.4" },
+  
+      "Calcium": { "unit": "mg", "target": "1000" },
+      "Iron": { "unit": "mg", "target": "8" },
+      "Magnesium": { "unit": "mg", "target": "400" },
+      "Zinc": { "unit": "mg", "target": "11" },
+  
+      "Tryptophan": { "unit": "g", "target": "0.3" },
+      "Methionine": { "unit": "g", "target": "1.0" },
+      "Cysteine": { "unit": "g", "target": "0.6" }
+    },
+    "WeeklyNutritionalNeeds": {
+      "Calories": "14700",
+      "Protein": { "unit": "g", "min": "420", "max": "770" },
+      "Carbohydrates": { "unit": "g", "min": "1652", "max": "2387" },
+      "Fat": { "unit": "g", "min": "329", "max": "574" },
+      "Fiber": { "unit": "g", "target": "210" },
+  
+      "Omega3": { "unit": "g", "target": "11.2" },
+      "Omega6": { "unit": "g", "target": "119" },
+      "OleicAcid": { "unit": "g", "target": "70" },
+  
+      "Polyphenols": { "unit": "mg", "target": "3500" },
+      "Flavonoids": { "unit": "mg", "target": "1400" },
+      "ShortChainFattyAcids": { "unit": "g", "target": "35" },
+  
+      "VitaminA": { "unit": "µg", "target": "6300" },
+      "VitaminC": { "unit": "mg", "target": "630" },
+      "VitaminD": { "unit": "µg", "target": "105" },
+      "VitaminE": { "unit": "mg", "target": "105" },
+      "VitaminK": { "unit": "µg", "target": "840" },
+      "VitaminB12": { "unit": "µg", "target": "16.8" },
+  
+      "Calcium": { "unit": "mg", "target": "7000" },
+      "Iron": { "unit": "mg", "target": "56" },
+      "Magnesium": { "unit": "mg", "target": "2800" },
+      "Zinc": { "unit": "mg", "target": "77" },
+  
+      "Tryptophan": { "unit": "g", "target": "2.1" },
+      "Methionine": { "unit": "g", "target": "7.0" },
+      "Cysteine": { "unit": "g", "target": "4.2" }
+    }
+  }
+  
