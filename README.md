@@ -39,7 +39,7 @@ Ingredient balancing and shopping list optimization
 Dietary analysis and improvement suggestions
 
 License
-MIT License
+Creative Commons Legal Code
 
 # Contributing
 Contributions are welcome! Please submit pull requests for:
