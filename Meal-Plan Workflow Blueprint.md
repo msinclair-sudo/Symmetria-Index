@@ -1,118 +1,187 @@
-## Meal-Plan Workflow Blueprint — Markdown Version
+## Meal‑Plan Workflow Blueprint — Markdown Version
 
 ---
 
-### 1. Load & Validate the Data
+### 1. Load & Validate the Data — **MUST pass before planning**
 
-| File                 | Purpose at this stage                         | Key checks                                                                                                 |
-| -------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **ingredients.json** | Master nutrition table                        | • Every ingredient used by a recipe must exist here.<br>• Convert macro values (strings) to numbers.       |
-| **recipes.json**     | Menu catalogue with per-serving nutrition     | • Ingredient names match `ingredients.json` exactly.<br>• Nutrition summaries are present or recalculated. |
-| **goals.json**       | Weights that steer the optimiser              | • Verify four goals exist.<br>• Positive vs negative weights make sense.                                   |
-| **profile.json**     | Personal daily / weekly targets & constraints | • Numeric targets for kcal, macros, fiber, key micros.<br>• Flag for `cook_sessions_per_week = 3`.         |
+| File | Purpose | Mandatory checks (error → abort) |
+|------|---------|----------------------------------|
+| **ingredients.json** | Master nutrition & price table | • Every ingredient referenced by any recipe **MUST** exist here.<br>• All macro/micro values **MUST** keep their unit strings (e.g. `"21g"`) **in the file** but **MUST** parse to pure numbers for calculations.<br>• All numeric values written back to any JSON file **MUST** be enclosed in quotes. |
+| **recipes.json** | Menu catalogue | • Ingredient names **MUST** match `ingredients.json` exactly (case‑sensitive).<br>• `nutrition_summary` **MUST** be complete; if missing, assistant recalculates and injects it.<br>• `cost_per_serving` **MUST** be computed (Σ ingredient‑cost ÷ servings). |
+| **goals.json** | Optimisation weight vectors | • At least four goals **MUST** be present.<br>• All weights **MUST** be numeric strings between –1 and +1. |
+| **profile.json** | Personal targets & constraints | • Keys `DailyNutritionalNeeds`, `WeeklyNutritionalNeeds`, `cook_sessions_per_week` **MUST** exist.<br>• `cook_sessions_per_week` **MUST** equal `"3"`. |
 
----
-
-### 2. Select the Weekly Goal
-
-Pick one goal from `goals.json` (e.g. **GutHealth** or **HighEnergy**) to drive recipe scoring.  
-You can blend goals by combining their weight vectors.
-
----
-
-### 3. Recipe Scoring Function
-
-normalised_nutrient = recipe_nutrient / daily_target
-score = Σ(normalised_nutrient_i × weight_i) + Σ(tag_present? × tag_weight)
-
-
----
-
-### 4. Generate Candidate Weekly Menus
-
-#### 4.1 cooking Session Guidelines.
-
-* Choose 3 cooking days
-* Cook 2–3 recipes each session (leftovers feed other days).
-* Breakfast recipes assigned from Monday to Friday must require minimal effort: they must either 
-    1. be no-cook or ready-to-eat
-    2. be prepared in under 15 minutes
-    3. allow for overnight preparation
-* Recipes with "cook_time": "0" are treated as no-cook and can be placed on any day or meal without requiring a prior cooking session
-* A meal can not be more than 2 days after it's cooking session. 
-
-#### 4.2 Fill 21 meal slots
-
-1. Pick 3 high-scoring **anchor recipes** suitable for meal-prep.
-2. Fill other slots with quick/no-cook recipes.
-3. Check ingredient shelf-life heuristics.
-
-### 4.3 RULES  
-
-1. Ensure daily kcal ±10% of 2100 and macros in range
-
-2. No meal may be assigned to a day earlier than its scheduled cooking session. Meals prepared during a cooking session can only be assigned to that day or any later day in the weekly plan.
-
-3. When introducing new recipes not already in recipes.json, always output a recipe code JSON block with the full recipe details (category, cuisine, servings, prep time, cook time, ingredients, instructions, nutrition summary, tags) so it can be appended to recipes.json
-
-
----
-
-### 5. Evaluate Menus vs. Profile
-
-For each candidate:
-
-1. Compare daily totals to **DailyNutritionalNeeds**.
-2. Compare weekly totals to **WeeklyNutritionalNeeds**.
-3. Penalise menus that:
-
-   * Exceed kcal >5%
-   * Miss fiber or key micros by >10%
-   * Require >3 cooking sessions
-   * Assign recipes before their cook day
-   * Assign weekday breakfasts that fail minimal-effort rule
-
-Select the highest-scoring valid menu.
-
----
-
-### 6. Export Meal-Plan File
+**Validation gate**  
+If *any* check fails, reply:
 
 ```json
-{
-  "week_start": "2025-05-05",
-  "cooking_sessions": [
-    {
-      "day": "Sunday",
-      "recipes": [
-        { "name": "Hearty Lentil Vegetable Soup", "servings": 4 },
-        { "name": "Banana Pancakes", "servings": 2 }
-      ]
-    },
-    {
-      "day": "Tuesday",
-      "recipes": [
-        { "name": "Chicken and Veggie Stir-Fry", "servings": 3 },
-        { "name": "Sweet Potato Black Bean Chili", "servings": 4 }
-      ]
-    },
-    {
-      "day": "Thursday",
-      "recipes": [
-        { "name": "Chickpea and Spinach Curry", "servings": 4 }
-      ]
-    }
-  ],
-  "daily_meals": {
-    "Monday": {
-      "Breakfast": { "recipe": "Peanut Butter Banana Oatmeal", "servings": 1 },
-      "Lunch":     { "recipe": "Hearty Lentil Vegetable Soup", "servings": 1 },
-      "Dinner":    { "recipe": "Chicken and Veggie Stir-Fry", "servings": 1 }
-    }
-    /* ... repeat for other days ... */
+{ "error": "load-validation-failed", "details": "<short description>" }
+```
+
+---
+
+### 2. Select the Weekly Goal — **make provenance explicit**
+
+1. Choose exactly **one** goal from `goals.json` (blending not allowed).  
+2. Record it as `"goal_used"` in the final plan.  
+3. Copy the full weight vector into `"goal_weights"` (object) so the user can audit optimisation inputs. `"goal_weights"` is **REQUIRED** in the final JSON.  
+4. If the requested focus (e.g. “gut health”) does not match any key, return:
+
+```json
+{ "error": "unknown-goal", "details": "Requested goal not found in goals.json" }
+```
+
+---
+
+### 3. Recipe Scoring — **deterministic & auditable**
+
+```
+score =
+  Σ_i [(recipe_nutrient_i / daily_target_i) × goal_weight_i]   // nutrition term
++ (tag_bonus_sum)                                             // +0.5 per *matching*, −0.5 per *conflicting*
+− (cost_penalty)                                              // +1 penalty if cost_per_serving > $5 AUD
+```
+
+**Tag bonus logic**  
+
+*Define once:*  
+
+* `matching_tags` = `goal.tags` ∪ `profile.preferred_tags`  
+* `conflicting_tags` = `profile.avoid_tags`  
+
+Add **+0.5** for every tag present in `matching_tags`; subtract **0.5** for each in `conflicting_tags`.
+
+**Recording**  
+Store each recipe’s `score` and `cost_per_serving` in a `scoring_log` object embedded under `"debug" → "scoring_log"` in the final JSON.
+
+---
+
+### 4. Generate Candidate Weekly Menus
+
+#### 4.1 Cooking‑Session Rules — **MUST NOT be broken**
+
+| Rule | Description |
+|------|-------------|
+| C1 | Exactly **3** cooking sessions on user‑friendly days (default Sun/Tue/Thu). |
+| C2 | Each session cooks 2–3 recipes; leftovers **MUST** populate subsequent days. |
+| C3 | A meal **MUST NOT** be scheduled > 2 days after its cooking session. |
+| C4 | Weekday breakfasts **MUST** satisfy at least one: `cook_time = "0"` **OR** `prep_time ≤ "15"` **OR** `"overnight"` tag. |
+| C5 | `cost_per_serving` for every meal **MUST** be ≤ **$5 AUD**. |
+| C6 | If a recipe has `"max_leftover_days"`, leftovers **MUST NOT** exceed that value (smaller of 2 days or recipe‑specific limit). |
+
+If a new recipe is introduced, include its full JSON in a `"new_recipes"` array inside the final plan.
+
+#### 4.2 Fill 21 meal slots
+
+*Follow the anchor‑recipe heuristic.* Each leftover meal entry **MUST** include `"source_cook_session_id"` and `"servings"` so provenance is auditable. Abort a candidate menu immediately if any rule C1–C6 is violated and continue searching.
+
+---
+
+### 5. Evaluate Menus vs Profile — **hard thresholds**
+
+Reject a candidate menu if **any** of the following is true:
+
+* Daily `"Calories"` outside ±10 % of target (compare numeric values after stripping `"kcal"`).  
+* Daily `"Fiber"` < target.  
+* Any **key micronutrient** (Vitamin C, Iron, Calcium, Magnesium, Zinc) < 90 % of target (compare numeric values, ignore unit strings).  
+* `weekly.Calories` outside ±5 % of weekly target.  
+* `cooking_sessions.length` ≠ `"3"`.  
+* Any breakfast violates Rule C4.  
+* Any meal placed before its cook date (Rule C3).  
+* Any meal `cost_per_serving` > `"$5"`.
+
+If no candidate passes, reply:
+
+```json
+{ "error": "no-valid-menu", "details": "Failed evaluation step" }
+```
+
+---
+
+### 6. Output Contract — **must be obeyed**
+
+1. **Reply format**  
+   * The assistant’s **entire** reply **MUST** be one fenced JSON block  
+     ```json
+     { … }
+     ```
+   * There is **no prose**, headings, or Markdown outside the fence.
+
+2. **File‑name rule**  
+   * The first key in the JSON **MUST** be  
+     ```json
+     "file_name": "meal_plan_<week_start>.json"
+     ```
+   * Replace `<week_start>` with the Monday start date (ISO yyyy‑mm‑dd).
+
+3. **Required top‑level keys** (order irrelevant)  
+
+```
+file_name            (string)
+week_start           (string, ISO date)
+goal_used            (string, in goals.json)
+goal_weights         (object)
+diet_profile_digest  (object)   ← proof profile was read
+cooking_sessions     (array, length = 3)
+daily_meals          (object, 7 keys Monday → Sunday)
+nutrition_summary    (object with daily & weekly)
+recipes_full         (object)   ← **NEW: full recipe blocks**
+debug                (object)   ← at minimum scoring_log
+
+```
+
+4. **Optional keys**  
+
+* `new_recipes` — required only if new recipes were introduced.
+
+#### recipes_full schema  — **embed full recipe objects**
+```json
+"recipes_full": {
+  "<recipe_id>": {
+    // entire recipe copied verbatim from recipes.json
   },
-  "nutrition_summary": {
-    "daily":   { "Calories": 2080, "Protein": 92,  "Carbohydrates": 290, "Fat": 65, "Fiber": 32 },
-    "weekly":  { "Calories": 14560, "Protein": 645, "Carbohydrates": 2030, "Fat": 455, "Fiber": 225 }
-  }
+  "<another_recipe_id>": { … }
 }
+```
+* Every recipe appearing in `daily_meals` **MUST** be present here verbatim.  
+* If `new_recipes` exists, copy those objects into `recipes_full` too.  
+* Do **not** remove or rename any recipe fields.
+
+
+5. **diet_profile_digest**  
+   Put exact numeric targets pulled from **profile.json**, e.g.
+
+```json
+"diet_profile_digest": {
+  "Calories_target": "2100",
+  "Fiber_target": "30",
+  "Cook_sessions_per_week": "3"
+}
+```
+
+6. **Schema snippets**  
+
+```json
+"daily_meals": {
+  "Monday": {
+    "breakfast": { "recipe_id": "BircherMuesli", "servings": "1" },
+    "lunch":     { "recipe_id": "LentilSoup",    "servings": "1" },
+    "dinner":    { "recipe_id": "Chili",         "servings": "1", "source_cook_session_id": "2" }
+  }
+  …
+}
+```
+
+7. **Numbers as strings**  
+   *All* numeric literals written to the plan **MUST** be strings (e.g. `"450"` not `450`).
+
+8. **Validation gate (final)**  
+   Before emitting, run all rules in §1, §4, and §5; if any fail, respond:
+
+```json
+{ "error": "export-validation-failed", "details": "<reason>" }
+```
+
+---
+
+*End of Blueprint*

@@ -1,4 +1,61 @@
 {
+  "HighEnergy": {
+    "priority_nutrients": {
+      "Calories": 1.0,
+      "Carbohydrates": 0.8,
+      "Fat": 0.5,
+      "Protein": 0.2
+    },
+    "priority_tags": {
+      "High-Fiber": -0.2
+    },
+    "description": "Maximise energy storage and availability for upcoming exertion."
+  },
+  "LowEnergyFilling": {
+    "priority_nutrients": {
+      "Calories": -1.0,
+      "Fiber": 1.0,
+      "Protein": 0.8,
+      "Fat": -0.5,
+      "Carbohydrates": -0.2
+    },
+    "priority_tags": {
+      "High-Fiber": 0.8,
+      "High-Protein": 0.5
+    },
+    "description": "Maximise satiety with minimal energy intake."
+  },
+  "ImmuneBoost": {
+    "priority_nutrients": {
+      "VitaminC": 1.0,
+      "VitaminD": 0.8,
+      "VitaminA": 0.5,
+      "VitaminE": 0.5,
+      "Zinc": 0.7,
+      "Protein": 0.5,
+      "Iron": 0.3,
+      "Polyphenols": 0.3
+    },
+    "priority_tags": {
+      "Prebiotic": 0.3
+    },
+    "description": "Support immune function during or after illness."
+  },
+  "GutHealth": {
+    "priority_nutrients": {
+      "Fiber": 1.0,
+      "Polyphenols": 0.5,
+      "Flavonoids": 0.5
+    },
+    "priority_tags": {
+      "Prebiotic": 1.0,
+      "Probiotic": 1.0,
+      "Synbiotic": 1.0,
+      "Fermented": 0.5,
+      "High-Fiber": 0.5
+    },
+    "description": "Enhance gut microbiota with prebiotic fiber and fermented foods."
+  },
     "BudgetTimeSaver": {
         "priority_nutrients": {
             "Calories": 0.0
