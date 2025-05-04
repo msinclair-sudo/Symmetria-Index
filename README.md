@@ -1,53 +1,98 @@
-##  Symmetria Index
-Symmetria Index is a structured framework for generating personalized, nutrient-balanced meal plans using large language models (LLMs) like ChatGPT.
+# Symmetria Index
 
-It provides curated datasets of ingredients, recipes, nutrition goals, and individual profiles, enabling AI-driven meal planning that prioritizes metabolic health, satiety, immune support, and affordability.
+Symmetria Index is a structured framework for generating **personalised, nutrient-balanced 7-day meal plans** with large-language models such as ChatGPT.
 
-# Features
- Structured JSON files for:
+It ships with carefully curated JSON datasets (ingredients, recipes, goals, profile) **and** an interactive, phase-based blueprint that forces the model to ask clarifying questions, validate data, and emit results in small, audit-friendly chunks.
 
-Ingredients with nutritional profiles
-Recipes with serving details and nutrition summaries
-Personal nutrition targets and lifestyle constraints
-High-level dietary goals with weighted nutrients and tags
- Focus on metabolic balance, gut health, and immune support
- Budget-friendly recipes
- Scientifically plausible nutrient estimates
+---
 
-# Repository Contents
-/ingredients.json                 → Ingredient-level nutritional profiles  
-/recipes.json                     → Recipe details and nutrition summaries  
-/goals.json                       → Dietary goals and weighted nutrients  
-/profile.json                     → Personal nutrition targets and constraints  
-/Meal-Plan Workflow Blueprint.md  → Guide for generating 7-day meal plans
+## ⚙️ Repository Contents
 
-# How It Works
-Configure your profile, or use default.
-Provide all files as input to an LLM.
-Prompt the LLM: "follow the instruction in the markdown"
-The first response should be to provide it with a goal. if it doesn't list the goals, ask what the goals are. 
+| File | Purpose |
+|------|---------|
+| **ingredients.json** | Ingredient-level nutrition & bioactives |
+| **recipes.json** | Recipes, tags, nutrition summaries, costs |
+| **goals.json** | High-level dietary optimisation vectors |
+| **profile.json** | Personal targets & lifestyle constraints |
+| **Meal-Plan Workflow Blueprint_Interactive_Strict_v2.md** | **Step-wise LLM playbook** (Phases A → G) |
+| **README.md** | You are here |
 
-the LLM will ask questions for your meal plan.
-Receive an output file meal_plan_yyyy-MM-dd.json with:
-21 meal slots (breakfast, lunch, dinner)
+---
 
-# Cooking sessions
-Daily & weekly nutrition summaries
+## 🌟 Key Features
 
-# Example Use Cases
-Personalized weekly meal plans
-Recipe generation aligned with metabolic goals
-Ingredient balancing and shopping list optimization
-Dietary analysis and improvement suggestions
+* **Metabolic balance** – weights calories, macros & micronutrients  
+* **Gut & immune support** – polyphenols, fibre, probiotic tags  
+* **Budget guard-rails** – ≤ $5 AUD per serving & cost penalties in scoring  
+* **Three cooking sessions / week** – leftovers auto-propagate  
+* **Token-efficient interaction** – model must dump data in phases, never in one monolithic blob
 
-License
-Creative Commons Legal Code
+---
 
-# Contributing
-Contributions are welcome! Please submit pull requests for:
-Additional affordable, diverse recipes
-New ingredient profiles with full nutritional data
-Improvements to workflows or documentation
+## 🚀 Quick-start (ChatGPT or other LLM front-end)
 
-# Project Maintainers
+1. **Upload** the five JSON files **and** the blueprint markdown into the same chat.  
+2. **Prompt once**:  
+Follow the instructions in “Meal-Plan_Workflow_Blueprint_Interactive_Strict_v2.md”.
+
+markdown
+Copy
+Edit
+3. **Phase A** – The model echoes a validation payload.  
+*If any `"failed_checks"` appear, fix your source files and start over.*
+4. **Phase B** – The model lists available goals → **you reply with exactly one goal key** (e.g. `GutHealth`).  
+5. **Phase C** – Scoring log delivered (silent step, no action).  
+6. **Phase D** – Draft meals + `nutrition_snapshot` arrive. Inspect; optionally ask the model to “re-roll Phase D” if you dislike the skeleton.  
+7. **Phase E** – Pass/fail evaluation.  
+8. **Phase F1** – Final plan **+ shopping list** only.  
+**Important:** *type `continue`* to request Phase F2.  
+9. **Phase F2** – The assistant streams `recipes_full` in slices until you see  
+
+{ "phase":"F2", "status":"complete" }
+Phase G – You’re done; ask for nutrition drill-downs or tweaks as needed.
+
+Conversation cheat-sheet
+You type	Model should respond with
+(initial prompt)	Phase A result
+HighEnergy (or other goal key)	Phase C (scoring)
+nothing	Phase D
+nothing	Phase E
+nothing	Phase F1 (plan + list)
+continue	Phase F2 recipe dump
+
+🗂 Output Files
+meal_plan_YYYY-MM-DD.json – 21 meals, cooking sessions, nutrition summary
+
+shopping_list.json – (embedded in Phase F1 payload) aggregated ingredients & costs
+
+recipes_full – (Phase F2) verbatim recipe objects; zero placeholders allowed
+
+🔬 Example Use Cases
+Draw up a weekly plan honouring a HeartHealthy goal.
+
+Inject new low-cost recipes and see how scores change.
+
+Balance high-polyphenol ingredients across seven days.
+
+Generate a grocery list capped at $100 AUD.
+
+🛠 Troubleshooting
+Symptom	Likely cause	Fix
+Placeholders { … } in recipes_full	You skipped continue / Phase F2 or blueprint not updated	Type continue or ensure v2 blueprint is loaded
+export-validation-failed	A Phase F gate tripped (e.g. placeholder, budget breach)	Read details, revise profile or recipes, restart
+Token overflow / assistant stops mid-dump	>40 k-token recipe set	Type continue again; the model must resume next slice
+
+🤝 Contributing
+Pull requests are welcome for:
+
+Budget-friendly, diverse recipes (≤ $5 AUD per serve)
+
+New ingredient profiles with full nutrient/bioactive data
+
+Workflow or documentation improvements
+
+📜 License
+Creative Commons — see LICENSE for full legal code.
+
+Project Maintainer
 msinclair-sudo
