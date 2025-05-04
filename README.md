@@ -25,6 +25,8 @@ High-level dietary goals with weighted nutrients and tags
 Configure your profile, or use default.
 Provide all files as input to an LLM.
 Prompt the LLM: "follow the instruction in the markdown"
+The first response should be to provide it with a goal. if it doesn't list the goals, ask what the goals are. 
+
 the LLM will ask questions for your meal plan.
 Receive an output file meal_plan_yyyy-MM-dd.json with:
 21 meal slots (breakfast, lunch, dinner)
