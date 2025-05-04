@@ -33,7 +33,7 @@ It ships with carefully curated JSON datasets (ingredients, recipes, goals, prof
 
 1. **Upload** the five JSON files **and** the blueprint markdown into the same chat.  
 2. **Prompt once**:  
-Follow the instructions in “Meal-Plan_Workflow_Blueprint_Interactive_Strict_v2.md”.
+Follow the instructions in “Meal-Plan_Workflow.md”.
 
 
 ## 3. **Phase A** – The model echoes a validation payload.  
