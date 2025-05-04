@@ -68,6 +68,7 @@
       "Tryptophan": { "unit": "g", "target": "2.1" },
       "Methionine": { "unit": "g", "target": "7.0" },
       "Cysteine": { "unit": "g", "target": "4.2" }
-    }
+    },
+    "cook_session_per_week": "3"
   }
   
