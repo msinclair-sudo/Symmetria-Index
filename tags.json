@@ -1,0 +1,85 @@
+
+    "tag groups" {
+      "Dietary & Lifestyle": [
+        "Vegan",
+        "Vegetarian",
+        "Pescatarian",
+        "Gluten-Free",
+        "Dairy-Free",
+        "Low-Carb"
+      ],
+      "Nutrient Emphasis": [
+        "High-Protein",
+        "High-Fiber",
+        "Omega-3-Rich",
+        "Low-Cost"
+      ],
+      "Gut-Health Focus": [
+        "Prebiotic",
+        "Probiotic",
+        "Synbiotic",
+        "Fermented"
+      ],
+      "Cooking Method / Convenience": [
+        "Quick",
+        "No-Cook",
+        "Make-Ahead",
+        "Meal-Prep",
+        "One-Pot",
+        "Sheet-Pan",
+        "Handheld"
+      ],
+      "Meal Style & Occasion": [
+        "Comfort-Food",
+        "Hearty-Soup",
+        "Light-Meal",
+        "Family-Friendly",
+        "Kid-Friendly",
+        "Summer"
+      ],
+      "Sustainability & Seafood Diversity": [
+        "Under-represented-Fish",
+        "Sustainably-Sourced",
+        "Budget-Seafood"
+      ],
+      "Micronutrient Focus": [
+        "High-Iron",
+        "High-Calcium",
+        "High-Magnesium",
+        "High-Vitamin-C",
+        "High-Polyphenol"
+      ],
+      "Metabolic Health": [
+        "Low-GI",
+        "Low-Sugar",
+        "Low-Sodium",
+        "Low-Sat-Fat",
+        "Heart-Healthy",
+        "Anti-Inflammatory"
+      ],
+      "Allergen Flags": [
+        "Nut-Free",
+        "Soy-Free",
+        "Egg-Free",
+        "Fish-Free",
+        "FODMAP-Friendly"
+      ],
+      "Time & Effort": [
+        "30-Minute",
+        "5-Ingredient",
+        "Freezer-Friendly"
+      ],
+      "Sourcing & Seasonality": [
+        "Local",
+        "Seasonal",
+        "Organic",
+        "Waste-Smart"
+      ],
+      "Fermentation Depth": [
+        "Sprouted",
+        "Cultured-Dairy",
+        "Koji-Fermented"
+      ],
+      "max leftover days": 3,
+      "mealtime category": "Unknown"
+    }

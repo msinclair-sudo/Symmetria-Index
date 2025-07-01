@@ -1,0 +1,22 @@
+{
+  "G": {
+    "description": "grams",
+    "to_grams": 1
+  },
+  "MG": {
+    "description": "milligrams",
+    "to_grams": 0.001
+  },
+  "UG": {
+    "description": "micrograms",
+    "to_grams": 0.000001
+  },
+  "KCAL": {
+    "description": "kilocalories",
+    "to_grams": null
+  },
+  "IU": {
+    "description": "International Units",
+    "to_grams": null
+  }
+}

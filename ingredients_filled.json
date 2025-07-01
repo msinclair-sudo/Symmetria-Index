@@ -1,0 +1,6527 @@
+[
+  {
+    "name": "Apple",
+    "serving_size": {
+      "value": 154.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.23,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 110.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 65.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 3.1,
+            "unit": "MG"
+          }
+        }
+      },
+      "macronutrients": {
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 14.3,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 52.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 10.4,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 3.2,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.65,
+          "unit": "G"
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Australian Sardines (Fresh)",
+    "nutrients": {
+      "macronutrients": {
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 538.0,
+          "unit": "KCAL"
+        },
+        "protein": {
+          "value": 16.9,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 81.0,
+          "unit": "MG"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 52.3,
+          "unit": "G"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "iron": {
+            "value": 1.98,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 20.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 148.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 58.0,
+            "unit": "MG"
+          },
+          "calcium": {
+            "value": 12.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 207.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 2.13,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.082,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.23,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 4.3,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.342,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 4.06,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 26.8,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 20.3,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Avocado",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 1.9,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 43.33,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 7.36,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 427.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 6.67,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.1,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 40.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 34.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.35,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 7.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 31.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 58.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 867.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.25,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 10.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 4.6,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.2,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.02,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.05,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.14,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.01,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 4.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.26,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 96.7,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 5.978,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 9.423,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Banana",
+    "serving_size": {
+      "value": 32.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 12.5,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 6.25,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 40.6,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 312.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 6.25,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 6.2,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 125.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.12,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 594.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 15.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 3.12,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Barramundi (Fresh)",
+    "serving_size": {
+      "value": 84.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 14.3,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 9.52,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 19.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 214.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 30.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 11.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.19,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 238.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 238.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 1.79,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Basa Fillets (Fresh)",
+    "serving_size": {
+      "value": 113.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 13.3,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 3.98,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 88.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 44.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.32,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 150.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 1.33,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Basil Pesto",
+    "serving_size": {
+      "value": 85.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 5.88,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 60.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 12.9,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 624.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 7.06,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 4.7,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 176.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 2.12,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 247.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 1340.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 7.06,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Bell Pepper",
+    "nutrients": {
+      "micronutrients": {
+        "minerals": {
+          "iron": {
+            "value": 0.186,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 9.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 16.8,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 163.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.126,
+            "unit": "MG"
+          },
+          "calcium": {
+            "value": 7.5,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_C": {
+            "value": 99.5,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.0391,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.0888,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.636,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.247,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 22.2,
+            "unit": "UG"
+          }
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "value": 0.106,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.942,
+          "unit": "G"
+        },
+        "protein": {
+          "value": 0.715,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.78,
+          "unit": "G"
+        }
+      }
+    }
+  },
+  {
+    "name": "Black Beans",
+    "serving_size": {
+      "value": 38.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 23.7,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 60.5,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 184.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 2.63,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 39.5,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 105.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 7.11,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 53.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Blackberries",
+    "serving_size": {
+      "value": 140.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 1.43,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.36,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 9.29,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 43.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 4.29,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 5.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 29.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.71,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 162.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Broccoli",
+    "serving_size": {
+      "value": 85.0,
+      "unit": "GRM"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 2.35,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.71,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 24.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 1.18,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 3.5,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 59.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.82,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 212.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 24.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Brown Rice",
+    "serving_size": {
+      "value": 45.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 8.89,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 3.33,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 75.6,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 378.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 6.7,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.8,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.89,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Cabbage",
+    "nutrients": {
+      "macronutrients": {
+        "total_fat": {
+          "value": 0.5,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 2.4,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 15.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 1.06,
+          "unit": "G"
+        },
+        "protein": {
+          "value": 1.1,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 1.6,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 33.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 151.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.22,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 2.5,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 14.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 24.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 498.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_E": {
+            "value": 0.11,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 1.1,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.213,
+            "unit": "MG"
+          },
+          "vitamin_A_iu": {
+            "value": 93.0,
+            "unit": "IU"
+          },
+          "vitamin_A_rae": {
+            "value": 5.0,
+            "unit": "UG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.01,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.21,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 52.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 43.6,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "polyunsaturated": {
+            "value": 0.037,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.067,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Canned Mackerel",
+    "serving_size": {
+      "value": 100.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "protein": {
+          "value": 17.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 8.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 140.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 70.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 300.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.8,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 710.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 100.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 2.4,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Canned Salmon",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 24.62,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 4.21,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 136.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 83.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 60.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.57,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 24.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 253.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 326.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 378.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.65,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 20.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 1.28,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 14.1,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.027,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.203,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 7.43,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.105,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 4.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 4.96,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 0.1,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.749,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.971,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Canned Sardines",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 24.62,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 11.45,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 208.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 142.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 382.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 2.92,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 39.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 490.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 397.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 307.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 1.31,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 32.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 2.04,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 4.8,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.08,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.227,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 5.245,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.167,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 10.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 8.94,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 2.6,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 1.528,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 3.869,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Canned Tuna",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 19.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.94,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.08,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 85.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 36.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 18.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.67,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 23.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 137.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 176.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 219.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.66,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 17.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.33,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 1.2,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.03,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.082,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 9.92,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.32,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 4.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 2.57,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 0.2,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.224,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.114,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Carrots",
+    "serving_size": {
+      "value": 78.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 1.28,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 8.97,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 38.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 6.41,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 2.6,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 26.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.51,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 321.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 77.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Cheddar Cheese",
+    "serving_size": {
+      "value": 28.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 21.4,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 28.6,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 3.57,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 393.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 89.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 714.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 679.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 1430.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 21.4,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Cherry Tomatoes",
+    "serving_size": {
+      "value": 28.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.64,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 21.0,
+          "unit": "KCAL"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "sodium": {
+            "value": 643.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Chia Seeds",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 16.54,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 30.74,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 42.12,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 486.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 1.55,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 34.4,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 631.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 7.72,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 335.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 860.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 407.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 16.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 4.58,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.5,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 1.6,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.62,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.17,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 8.83,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.393,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 49.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 3.7,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 3.33,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 2.309,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Chicken Breast",
+    "serving_size": {
+      "value": 284.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 20.4,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 8.1,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 1.06,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 165.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.7,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 67.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 158.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.38,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 433.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 352.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 1.7,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 4.58,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Chickpeas",
+    "serving_size": {
+      "value": 125.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 8.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 1.6,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 20.8,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 128.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.8,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 4.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 64.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.15,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 248.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 232.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Coconut Milk",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.21,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 2.08,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 2.92,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 31.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 2.5,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 188.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.3,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 19.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 19.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 63.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 1.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.63,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 0.0,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 2.083,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Cucumber",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.5,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.13,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 6.79,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 34.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 5.33,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.5,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 14.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.07,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 8.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 19.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 137.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 236.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.15,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 3.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.02,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 2.5,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.021,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.024,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.072,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.037,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 6.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 14.6,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.027,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.004,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Eggs",
+    "serving_size": {
+      "value": 44.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "protein": {
+          "value": 13.6,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 9.09,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 136.0,
+          "unit": "KCAL"
+        },
+        "cholesterol": {
+          "value": 375.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 45.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.64,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 136.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 455.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 3.41,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Flathead Fillets (Fresh)",
+    "serving_size": {
+      "value": 56.70000076293945,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 17.6,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 71.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 17.6,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Garlic",
+    "serving_size": {
+      "value": 3.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 33.3,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 167.0,
+          "unit": "KCAL"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 667.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_C": {
+            "value": 80.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Ginger",
+    "serving_size": {
+      "value": 0.6000000238418579,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 0.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Gochujang",
+    "serving_size": {
+      "value": 30.0,
+      "unit": "ml"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 3.33,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 5.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 53.3,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 267.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 43.3,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 233.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 967.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Green Onion",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 1.83,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.19,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 7.34,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 32.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 2.33,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 2.6,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 72.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.48,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 20.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 37.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 276.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 16.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.39,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 50.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.55,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 18.8,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.055,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.08,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.525,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.061,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 64.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 207.0,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.032,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.027,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Gummy Flake (Fresh)",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 10.06,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 1.47,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 76.27,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 359.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 14.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 10.4,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 19.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 27.62,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 30.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 112.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 126.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 574.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.96,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.05,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 4.9,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 22.7,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.693,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.483,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 7.248,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.7,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 138.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.89,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 0.3,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.13,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.073,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Honey",
+    "nutrients": {
+      "fatty_acids": {
+        "by_saturation": {
+          "polyunsaturated": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      },
+      "micronutrients": {
+        "vitamins": {
+          "vitamin_E": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.5,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.038,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 2.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "niacin": {
+            "value": 0.121,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.024,
+            "unit": "MG"
+          },
+          "vitamin_K": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_A_rae": {
+            "value": 0.0,
+            "unit": "UG"
+          }
+        },
+        "minerals": {
+          "iron": {
+            "value": 0.42,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 2.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 4.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 4.0,
+            "unit": "MG"
+          },
+          "calcium": {
+            "value": 6.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 52.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.22,
+            "unit": "MG"
+          }
+        }
+      },
+      "macronutrients": {
+        "protein": {
+          "value": 0.3,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.2,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 82.4,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 304.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 82.1,
+          "unit": "G"
+        }
+      }
+    }
+  },
+  {
+    "name": "Kale",
+    "serving_size": {
+      "value": 113.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 3.54,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.88,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 9.73,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 53.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 1.8,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 133.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.59,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 35.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 53.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 447.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 44.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 15500.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 122.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.12,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 1.06,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.265,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 28.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 828.0,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Kimchi",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 1.1,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.5,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 2.4,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 15.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 1.06,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 1.6,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 33.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 2.5,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 14.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 24.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 151.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 498.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.22,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 5.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.11,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.01,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.21,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 1.1,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.213,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 52.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 43.6,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.067,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.037,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "King Dory Fillets (Fresh)",
+    "nutrients": {
+      "micronutrients": {
+        "minerals": {
+          "iron": {
+            "value": 2.5,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 24.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 143.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 602.0,
+            "unit": "MG"
+          },
+          "calcium": {
+            "value": 93.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 178.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 2.4,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_C": {
+            "value": 0.2,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.303,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.24,
+            "unit": "MG"
+          },
+          "vitamin_K": {
+            "value": 5.7,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.1,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 3.4,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.09,
+            "unit": "MG"
+          }
+        }
+      },
+      "macronutrients": {
+        "cholesterol": {
+          "value": 45.0,
+          "unit": "MG"
+        },
+        "protein": {
+          "value": 14.6,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 14.8,
+          "unit": "G"
+        },
+        "sugars": {
+          "value": 4.49,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 23.7,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 286.0,
+          "unit": "KCAL"
+        },
+        "dietary_fiber": {
+          "value": 1.0,
+          "unit": "G"
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 6.84,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 5.7,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Kingfish (Fresh)",
+    "nutrients": {
+      "micronutrients": {
+        "minerals": {
+          "iron": {
+            "value": 3.17,
+            "unit": "MG"
+          },
+          "calcium": {
+            "value": 177.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 295.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.81,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 64.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 56.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 4.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_C": {
+            "value": 18.0,
+            "unit": "MG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_A_iu": {
+            "value": 5280.0,
+            "unit": "IU"
+          },
+          "vitamin_A_rae": {
+            "value": 264.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 415.0,
+            "unit": "UG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.8,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.902,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.155,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.034,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.076,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 68.0,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.041,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.088,
+            "unit": "G"
+          },
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      },
+      "macronutrients": {
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "sugars": {
+          "value": 0.3,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.64,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 2.65,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 23.0,
+          "unit": "KCAL"
+        },
+        "dietary_fiber": {
+          "value": 1.6,
+          "unit": "G"
+        },
+        "protein": {
+          "value": 3.15,
+          "unit": "G"
+        }
+      }
+    }
+  },
+  {
+    "name": "Lemon Juice",
+    "serving_size": {
+      "value": 5.0,
+      "unit": "ml"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 0.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Lentils",
+    "serving_size": {
+      "value": 35.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 22.9,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 1.43,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 65.7,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 286.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 20.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 6.86,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 743.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 29.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Ling Fillets (Fresh)",
+    "nutrients": {
+      "micronutrients": {
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 30.0,
+            "unit": "UG"
+          },
+          "niacin": {
+            "value": 2.3,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.304,
+            "unit": "MG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.11,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.19,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 7.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.56,
+            "unit": "UG"
+          },
+          "vitamin_A_iu": {
+            "value": 100.0,
+            "unit": "IU"
+          }
+        },
+        "minerals": {
+          "calcium": {
+            "value": 34.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 379.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.78,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.65,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 63.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 198.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 135.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "value": 0.64,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 87.0,
+          "unit": "KCAL"
+        },
+        "cholesterol": {
+          "value": 40.0,
+          "unit": "MG"
+        },
+        "protein": {
+          "value": 19.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "polyunsaturated": {
+            "value": 0.09,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.12,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Milk",
+    "serving_size": {
+      "value": 236.0,
+      "unit": "ml"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 3.39,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 2.12,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 5.08,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 55.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 5.08,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 8.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 127.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 55.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 212.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 1.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 1.27,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Mint",
+    "serving_size": {
+      "value": 0.20000000298023224,
+      "unit": "GRM"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 0.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Mushrooms",
+    "serving_size": {
+      "value": 227.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.88,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 1.76,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 7.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 1.3,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 4.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.44,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 48.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 119.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Oats",
+    "serving_size": {
+      "value": 40.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 12.5,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 6.25,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 67.5,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 375.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 2.5,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 10.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 4.5,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 1.25,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 2.5,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Olive Oil",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 100.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 900.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 1.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.56,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 1.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 2.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 20.88,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 26.0,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 15.52,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 68.42,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Onion",
+    "serving_size": {
+      "value": 128.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 10.9,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.78,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 59.4,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 289.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 7.03,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 2.3,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 16.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 3.52,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 430.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 78.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 1.0,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.332,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 4.69,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Onions",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.86,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.08,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 8.46,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 38.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 5.8,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 1.7,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 17.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.24,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 9.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 33.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 171.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 1.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.17,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.02,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 8.2,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.046,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.027,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.116,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.12,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 19.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 0.4,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.042,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.013,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Peanut Butter",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 22.21,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 51.36,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 22.31,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 598.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 10.49,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 5.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 49.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.74,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 168.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 335.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 558.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 426.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 2.51,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 9.1,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.15,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.192,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 13.112,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.441,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 87.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 0.3,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 10.325,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 25.941,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Potatoes",
+    "serving_size": {
+      "value": 148.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "protein": {
+          "value": 2.7,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 16.9,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 74.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.68,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 2.0,
+          "unit": "G"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.73,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 439.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 2.4,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "serving_size": {
+      "value": 30.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 23.3,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 46.7,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 13.3,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 600.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 3.3,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 9.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 17.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 333.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 8.33,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Quinoa",
+    "serving_size": {
+      "value": 140.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 2.86,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 1.79,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 20.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 107.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 2.14,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 2.1,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 14.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.77,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 157.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 714.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 3.4,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.36,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Rainbow Trout (Fresh)",
+    "nutrients": {
+      "macronutrients": {
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 6.18,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 141.0,
+          "unit": "KCAL"
+        },
+        "protein": {
+          "value": 19.9,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 59.0,
+          "unit": "MG"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        }
+      },
+      "micronutrients": {
+        "vitamins": {
+          "vitamin_K": {
+            "value": 0.1,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 2.34,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 5.57,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.34,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.09,
+            "unit": "MG"
+          },
+          "vitamin_B12": {
+            "value": 4.3,
+            "unit": "UG"
+          },
+          "vitamin_A_iu": {
+            "value": 280.0,
+            "unit": "IU"
+          },
+          "vitamin_A_rae": {
+            "value": 84.0,
+            "unit": "UG"
+          },
+          "vitamin_D": {
+            "value": 15.9,
+            "unit": "UG"
+          },
+          "thiamin": {
+            "value": 0.12,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 11.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 2.9,
+            "unit": "MG"
+          }
+        },
+        "minerals": {
+          "potassium": {
+            "value": 377.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.45,
+            "unit": "MG"
+          },
+          "calcium": {
+            "value": 25.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 51.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.31,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 25.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 226.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "polyunsaturated": {
+            "value": 1.98,
+            "unit": "G"
+          },
+          "trans": {
+            "value": 0.047,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 1.38,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Ricotta Cheese",
+    "serving_size": {
+      "value": 62.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 9.68,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 1.05,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.84,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 65.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 4.84,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 24.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 242.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 242.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 484.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.32,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Sesame Oil",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 100.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 884.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 1.4,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 13.6,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 14.2,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 39.7,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Snapper Fillets (Fresh)",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 22.78,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 6.26,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 7.79,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 185.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.14,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.3,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 47.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 44.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.78,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 37.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 223.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 454.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 330.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.48,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 51.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 1.7,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 10.8,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 1.3,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.138,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.052,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.979,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.415,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 21.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 2.85,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 4.0,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 1.551,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 1.934,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Soy Sauce",
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 8.14,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.57,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.93,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 53.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.4,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.8,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 33.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 1.45,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 74.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 166.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 435.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 5493.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.87,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_rae": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.033,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.165,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 2.196,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.148,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 14.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 0.0,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.073,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.088,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Spanish Mackerel (Fresh)",
+    "nutrients": {
+      "macronutrients": {
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "protein": {
+          "value": 19.3,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 76.0,
+          "unit": "MG"
+        },
+        "total_fat": {
+          "value": 6.3,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 139.0,
+          "unit": "KCAL"
+        }
+      },
+      "micronutrients": {
+        "vitamins": {
+          "vitamin_K": {
+            "value": 0.1,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.69,
+            "unit": "MG"
+          },
+          "vitamin_A_iu": {
+            "value": 130.0,
+            "unit": "IU"
+          },
+          "vitamin_A_rae": {
+            "value": 39.0,
+            "unit": "UG"
+          },
+          "vitamin_D": {
+            "value": 7.3,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 1.6,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.13,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.17,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 1.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 2.4,
+            "unit": "UG"
+          },
+          "niacin": {
+            "value": 2.3,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.4,
+            "unit": "MG"
+          }
+        },
+        "minerals": {
+          "iron": {
+            "value": 0.44,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 33.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 205.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 59.0,
+            "unit": "MG"
+          },
+          "calcium": {
+            "value": 11.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 446.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.49,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 1.83,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 1.53,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Spinach",
+    "serving_size": {
+      "value": 85.0,
+      "unit": "GRM"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 2.35,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 3.53,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 29.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 2.4,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 94.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 2.71,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 553.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 76.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_C": {
+            "value": 28.2,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 116.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 482.0,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Sweet Potatoes",
+    "serving_size": {
+      "value": 130.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "protein": {
+          "value": 1.54,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 20.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 85.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 3.85,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 3.1,
+          "unit": "G"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 31.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.55,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 28.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 46.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.23,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 338.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 54.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 14200.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 2.8,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.052,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.615,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.231,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 12.0,
+            "unit": "UG"
+          },
+          "vitamin_K": {
+            "value": 1.2,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Tasmanian Salmon (Fresh)",
+    "serving_size": {
+      "value": 65.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 21.1,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 15.7,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 0.15,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 225.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "sodium": {
+            "value": 351.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.15,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 3.23,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Tofu",
+    "serving_size": {
+      "value": 113.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Tofu (Soft)",
+    "nutrients": {
+      "macronutrients": {
+        "dietary_fiber": {
+          "value": 0.8,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "total_fat": {
+          "value": 2.71,
+          "unit": "G"
+        },
+        "sugars": {
+          "value": 0.53,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 2.19,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 59.0,
+          "unit": "KCAL"
+        },
+        "protein": {
+          "value": 6.38,
+          "unit": "G"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "iron": {
+            "value": 1.53,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 34.0,
+            "unit": "MG"
+          },
+          "calcium": {
+            "value": 78.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 34.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.9,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.48,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.63,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Tomatoes",
+    "serving_size": {
+      "value": 71.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 2.82,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 14.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 1.41,
+          "unit": "G"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 704.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 8.5,
+            "unit": "MG"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Vegetable Broth",
+    "serving_size": {
+      "value": 240.0,
+      "unit": "ml"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 1.25,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 6.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.83,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "sodium": {
+            "value": 238.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Whiting Fillets (Fresh)",
+    "nutrients": {
+      "micronutrients": {
+        "vitamins": {
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "vitamin_K": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.004,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.439,
+            "unit": "MG"
+          },
+          "folate": {
+            "value": 4.0,
+            "unit": "UG"
+          },
+          "vitamin_B12": {
+            "value": 0.09,
+            "unit": "UG"
+          },
+          "vitamin_B6": {
+            "value": 0.005,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 0.105,
+            "unit": "MG"
+          },
+          "vitamin_D": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_A_rae": {
+            "value": 0.0,
+            "unit": "UG"
+          },
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          }
+        },
+        "minerals": {
+          "iron": {
+            "value": 0.08,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 11.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 15.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 166.0,
+            "unit": "MG"
+          },
+          "calcium": {
+            "value": 7.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 163.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.03,
+            "unit": "MG"
+          }
+        }
+      },
+      "macronutrients": {
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "sugars": {
+          "value": 0.71,
+          "unit": "G"
+        },
+        "protein": {
+          "value": 10.9,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.17,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "calories": {
+          "value": 52.0,
+          "unit": "KCAL"
+        },
+        "carbohydrate": {
+          "value": 0.73,
+          "unit": "G"
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "polyunsaturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "serving_size": {
+      "value": 43.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 11.6,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 2.33,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 44.2,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 233.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 6.98,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 7.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 140.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 2.51,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 395.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.158,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 3.72,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Whole Wheat Flour",
+    "serving_size": {
+      "value": 30.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 13.3,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 3.33,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 70.0,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 367.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 10.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 33.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 4.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 367.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Whole Wheat Pasta",
+    "serving_size": {
+      "value": 56.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 10.7,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 2.68,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 76.8,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 357.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 1.79,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 10.7,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 71.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 4.82,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 0.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.121,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 3.57,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Yellowfin Tuna (Fresh)",
+    "nutrients": {
+      "micronutrients": {
+        "vitamins": {
+          "vitamin_K": {
+            "value": 0.1,
+            "unit": "UG"
+          },
+          "vitamin_E": {
+            "value": 0.24,
+            "unit": "MG"
+          },
+          "niacin": {
+            "value": 18.5,
+            "unit": "MG"
+          },
+          "vitamin_B6": {
+            "value": 0.933,
+            "unit": "MG"
+          },
+          "vitamin_A_iu": {
+            "value": 60.0,
+            "unit": "IU"
+          },
+          "vitamin_C": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "thiamin": {
+            "value": 0.118,
+            "unit": "MG"
+          },
+          "riboflavin": {
+            "value": 0.115,
+            "unit": "MG"
+          },
+          "vitamin_B12": {
+            "value": 2.08,
+            "unit": "UG"
+          },
+          "vitamin_A_rae": {
+            "value": 18.0,
+            "unit": "UG"
+          },
+          "vitamin_D": {
+            "value": 1.7,
+            "unit": "UG"
+          },
+          "folate": {
+            "value": 2.0,
+            "unit": "UG"
+          }
+        },
+        "minerals": {
+          "calcium": {
+            "value": 4.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 441.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.37,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.77,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 35.0,
+            "unit": "MG"
+          },
+          "phosphorus": {
+            "value": 278.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 45.0,
+            "unit": "MG"
+          }
+        }
+      },
+      "macronutrients": {
+        "sugars": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.49,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 109.0,
+          "unit": "KCAL"
+        },
+        "protein": {
+          "value": 24.4,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 39.0,
+          "unit": "MG"
+        },
+        "carbohydrate": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "polyunsaturated": {
+            "value": 0.116,
+            "unit": "G"
+          },
+          "trans": {
+            "value": 0.016,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.172,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Yogurt",
+    "serving_size": {
+      "value": 227.0,
+      "unit": "GRM"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 3.52,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 3.52,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.41,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 62.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 3.08,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 15.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 132.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.0,
+            "unit": "MG"
+          },
+          "magnesium": {
+            "value": 13.0,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 154.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 48.0,
+            "unit": "MG"
+          },
+          "zinc": {
+            "value": 0.62,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_A_iu": {
+            "value": 2120.0,
+            "unit": "IU"
+          },
+          "riboflavin": {
+            "value": 0.15,
+            "unit": "MG"
+          },
+          "vitamin_B12": {
+            "value": 0.37,
+            "unit": "UG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 2.2,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Zucchini",
+    "serving_size": {
+      "value": 95.0,
+      "unit": "g"
+    },
+    "nutrients": {
+      "macronutrients": {
+        "protein": {
+          "value": 1.05,
+          "unit": "G"
+        },
+        "total_fat": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.21,
+          "unit": "G"
+        },
+        "calories": {
+          "value": 21.0,
+          "unit": "KCAL"
+        },
+        "sugars": {
+          "value": 3.16,
+          "unit": "G"
+        },
+        "dietary_fiber": {
+          "value": 1.1,
+          "unit": "G"
+        },
+        "cholesterol": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "micronutrients": {
+        "minerals": {
+          "calcium": {
+            "value": 21.0,
+            "unit": "MG"
+          },
+          "iron": {
+            "value": 0.44,
+            "unit": "MG"
+          },
+          "potassium": {
+            "value": 222.0,
+            "unit": "MG"
+          },
+          "sodium": {
+            "value": 0.0,
+            "unit": "MG"
+          }
+        },
+        "vitamins": {
+          "vitamin_C": {
+            "value": 12.6,
+            "unit": "MG"
+          }
+        }
+      },
+      "fatty_acids": {
+        "by_saturation": {
+          "trans": {
+            "value": 0.0,
+            "unit": "G"
+          },
+          "saturated": {
+            "value": 0.0,
+            "unit": "G"
+          }
+        }
+      }
+    }
+  }
+]

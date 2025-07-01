@@ -1532,7 +1532,7 @@
           "unit": "large"
         },
         {
-          "item": "Onions",
+          "item": "Onion",
           "quantity": "80",
           "unit": "g"
         },
@@ -1544,7 +1544,7 @@
       ],
       "instructions": [
         "Grate sweet potatoes; squeeze excess moisture.",
-        "Saut\u00e9 onions and grated sweet potatoes 6 min.",
+        "Saut\u00e9 Onion and grated sweet potatoes 6 min.",
         "Add flaked cooked flathead; stir 2 min.",
         "Make 2 wells; crack eggs, cover and cook 4\u20135 min until set."
       ],
@@ -2058,7 +2058,7 @@
           "unit": "g"
         },
         {
-          "item": "Onions",
+          "item": "Onion",
           "quantity": "80",
           "unit": "g"
         },
@@ -2129,7 +2129,7 @@
           "unit": "ml"
         },
         {
-          "item": "Onions",
+          "item": "Onion",
           "quantity": "60",
           "unit": "g"
         },
@@ -2141,7 +2141,7 @@
       ],
       "instructions": [
         "Cook pasta until al dente; reserve \u00bc cup pasta water, drain.",
-        "Saut\u00e9 onions and sliced mushrooms in olive oil 5 min.",
+        "Saut\u00e9 Onion and sliced mushrooms in olive oil 5 min.",
         "Stir in tuna, milk and half the cheese; simmer 2 min.",
         "Add pasta and reserved water; toss 1 min.",
         "Top with remaining cheese and serve."
@@ -2190,7 +2190,7 @@
           "unit": "g"
         },
         {
-          "item": "Onions",
+          "item": "Onion",
           "quantity": "80",
           "unit": "g"
         },
@@ -2331,7 +2331,7 @@
           "unit": "g"
         },
         {
-          "item": "Onions",
+          "item": "Onion",
           "quantity": "100",
           "unit": "g"
         },
@@ -2401,7 +2401,7 @@
           "unit": "g"
         },
         {
-          "item": "Onions",
+          "item": "Onion",
           "quantity": "80",
           "unit": "g"
         },
@@ -2462,7 +2462,7 @@
           "unit": "g (diced)"
         },
         {
-          "item": "Onions",
+          "item": "Onion",
           "quantity": "60",
           "unit": "g"
         },
@@ -5965,89 +5965,5 @@
       "Tags": [],
       "max leftover days": 3,
       "mealtime category": "Breakfast"
-    },
-    " tag groups": {
-      "Dietary & Lifestyle": [
-        "Vegan",
-        "Vegetarian",
-        "Pescatarian",
-        "Gluten-Free",
-        "Dairy-Free",
-        "Low-Carb"
-      ],
-      "Nutrient Emphasis": [
-        "High-Protein",
-        "High-Fiber",
-        "Omega-3-Rich",
-        "Low-Cost"
-      ],
-      "Gut-Health Focus": [
-        "Prebiotic",
-        "Probiotic",
-        "Synbiotic",
-        "Fermented"
-      ],
-      "Cooking Method / Convenience": [
-        "Quick",
-        "No-Cook",
-        "Make-Ahead",
-        "Meal-Prep",
-        "One-Pot",
-        "Sheet-Pan",
-        "Handheld"
-      ],
-      "Meal Style & Occasion": [
-        "Comfort-Food",
-        "Hearty-Soup",
-        "Light-Meal",
-        "Family-Friendly",
-        "Kid-Friendly",
-        "Summer"
-      ],
-      "Sustainability & Seafood Diversity": [
-        "Under-represented-Fish",
-        "Sustainably-Sourced",
-        "Budget-Seafood"
-      ],
-      "Micronutrient Focus": [
-        "High-Iron",
-        "High-Calcium",
-        "High-Magnesium",
-        "High-Vitamin-C",
-        "High-Polyphenol"
-      ],
-      "Metabolic Health": [
-        "Low-GI",
-        "Low-Sugar",
-        "Low-Sodium",
-        "Low-Sat-Fat",
-        "Heart-Healthy",
-        "Anti-Inflammatory"
-      ],
-      "Allergen Flags": [
-        "Nut-Free",
-        "Soy-Free",
-        "Egg-Free",
-        "Fish-Free",
-        "FODMAP-Friendly"
-      ],
-      "Time & Effort": [
-        "30-Minute",
-        "5-Ingredient",
-        "Freezer-Friendly"
-      ],
-      "Sourcing & Seasonality": [
-        "Local",
-        "Seasonal",
-        "Organic",
-        "Waste-Smart"
-      ],
-      "Fermentation Depth": [
-        "Sprouted",
-        "Cultured-Dairy",
-        "Koji-Fermented"
-      ],
-      "max leftover days": 3,
-      "mealtime category": "Unknown"
     }
   }
